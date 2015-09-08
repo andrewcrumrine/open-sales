@@ -15,8 +15,12 @@ import fileReader as f
 #	Search Keys
 HEAD_KEY = ' AMBD5PFR'
 CUST_KEY = ' Customer number  . . :   '
-TERM_KEY = '       ***  1 - CO'
+OTERM_KEY = '       ***  1 - CO'
+CTERM_KEY = '       ***     ******** Customer totals ***'
+ORDER_KEY = '    Order'
+ITEM_KEY = ' **/**/**'
 
+DIAG = True
 
 class OSReader(f.TxtFileReader):
 	"""
@@ -30,7 +34,8 @@ class OSReader(f.TxtFileReader):
 		f.TxtFileReader.__init__(self,filenameIn)
 		self.eventState = 0
 		self.lock = False
-		self.key = {CUST_KEY:True,TERM_KEY:True}
+		self.key = {CUST_KEY:True,OTERM_KEY:True,CTERM_KEY:True,\
+			ORDER_KEY:True,ITEM_KEY:True}
 
 	def __del__(self):
 		"""
@@ -48,26 +53,34 @@ class OSReader(f.TxtFileReader):
 		self.buffer = OSBuffer(self.fid,key)
 		self._setReading()
 
-		if self._isReturnLine() and not self.lock:
-			if self.eventState > 1:
-				self.eventState -= 1
-			self._printDiagnostics(DIAG,True)
-			return self.buffer
-		elif self._isHeader():
+		if self._isHeader():
 			self.eventState = 0
 			self.lock = True
 			self._printDiagnostics(DIAG,False)
-			return None
+			out = None
 		elif self._isBlank():
 			self._printDiagnostics(DIAG,False)
-			return None
+			out = None
+		elif self._isTerminate():
+			self._printDiagnostics(DIAG,False)
+			self.eventState = 1
+			out = None
+		elif self._isCTerminate():
+			self._printDiagnostics(DIAG,False)
+			self.eventState = 0
+			out = None	
 		elif self._unlock():
 			self.lock = False
 			self.eventState += 1
 			self._printDiagnostics(DIAG,True)
-			return self.buffer
+			out = self.buffer
+		elif self._isReturnLine() and not self.lock:
+			self.eventState += 1
+			self._printDiagnostics(DIAG,True)
+			out = self.buffer
 		else:
-			pass
+			out = None
+		return out,self.eventState
 
 	def _getKeyDict(self):
 		"""
@@ -76,7 +89,9 @@ class OSReader(f.TxtFileReader):
 		if self.eventState == 0:
 			key = CUST_KEY
 		elif self.eventState == 1:
-			key = DASH_KEY
+			key = ORDER_KEY
+		elif self.eventState >= 2:
+			key = ITEM_KEY
 		pos = self.key[key]
 		keyDict = {key:pos}
 		return keyDict
@@ -85,7 +100,7 @@ class OSReader(f.TxtFileReader):
 		"""
 	Reads the return line state and determines if the header should be unlocked.
 		"""
-		if not self._isReturnLine() and self.lock:
+		if self._isReturnLine() and self.lock:
 			self.lock = False
 			return True
 		return False
@@ -103,6 +118,22 @@ class OSReader(f.TxtFileReader):
 	Reads the buffer's blank variable and returns boolean
 		"""
 		if self.buffer.blank:
+			return True
+		return False
+
+	def _isTerminate(self):
+		"""
+	Reads the buffer's terminate variable and returns boolean
+		"""
+		if self.buffer.terminate:
+			return True
+		return False
+
+	def _isCTerminate(self):
+		"""
+	Reads the buffer's terminate variable and returns boolean
+		"""
+		if self.buffer.cTerminate:
 			return True
 		return False
 
@@ -136,10 +167,14 @@ class OSBuffer(f.TxtBuffer):
 		"""
 		f.TxtBuffer.__init__(self,fid)
 		self.keyDict = keyIn
-		self.headKey = {HEAD_KEY : False}
+		self.headKey = {HEAD_KEY : True}
 		self.blankKey = {'\n':True}
+		self.termKey = {OTERM_KEY:True}
+		self.cTermKey = {CTERM_KEY:True}
 		self.header = False
 		self.blank = False
+		self.terminate = False
+		self.cTerminate = False
 		self.returnLine = self._checkNecessaryReturnLine()
 
 	def _checkNecessaryReturnLine(self):
@@ -153,16 +188,22 @@ class OSBuffer(f.TxtBuffer):
 		if self._isBlank():
 			self.blank = True
 			return False
+		if self._isTerminate():
+			self.terminate = True
+			return False
+		if self._isCTerminate():
+			self.cTerminate = True
+			return False
 
 		key,_ = self.keyDict.items()[0]
 		if key == CUST_KEY:
 			if self._isFlagged(self.keyDict):
 				self.header = False
-				return False
-		elif key == DASH_KEY:
+				return True
+		else:
 			if self._isFlagged(self.keyDict):
-				return False
-		return True
+				return True
+		return False
 
 	def _isHeader(self):
 		"""
@@ -180,6 +221,22 @@ class OSBuffer(f.TxtBuffer):
 			return True
 		return False
 
+	def _isTerminate(self):
+		"""
+	Checks the text for the terminating key
+		"""
+		if self._isFlagged(self.termKey):
+			return True
+		return False
+
+	def _isCTerminate(self):
+		"""
+	Checks the text for the customer terminating key.
+		"""
+		if self._isFlagged(self.cTermKey):
+			return True
+		return False
+
 	def _isFlagged(self,keyIn,wc=None):
 		"""
 	General function used to manage return line
@@ -187,6 +244,8 @@ class OSBuffer(f.TxtBuffer):
 		key,pos = keyIn.items()[0]
 		self._setKey(key)
 		self._setPosition(pos)
+		if self.key == ITEM_KEY or self.key == CTERM_KEY:
+			wc = '*'
 		if self._checkReturnLine(wc):
 			return False
 		return True

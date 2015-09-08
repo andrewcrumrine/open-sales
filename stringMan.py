@@ -102,8 +102,14 @@ def removeMinus(textIn):
 		return removeCommas(textIn[:loc] + textIn[loc+1:])
 	return textIn
 
-def subStrByChar(textIn,char1,char2):
+def subStrByChar(textIn,char1,char2,reverse=False):
 	"""
 	Function returns a substring nestled between two chars
 	"""
+	if reverse:
+		return textIn[textIn.rfind(char1)+len(char1):textIn.rfind(char2)]
+	if char1 == char2:
+		key1 = textIn.find(char1)
+		key2 = textIn[key1+len(char1):].find(char2)
+		return textIn[key1+len(char1):key1+key2+len(char2)]
 	return textIn[textIn.find(char1)+len(char1):textIn.find(char2)]

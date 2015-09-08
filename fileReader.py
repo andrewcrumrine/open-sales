@@ -170,6 +170,9 @@ class MapReader(object):
 		return mapOut
 
 	def _getNextPair(self):
+		"""
+	Returns the completed map from the text file.
+		"""
 		text = self.fid.readline()
 		if text == '':
 			self.reading = False
@@ -180,3 +183,64 @@ class MapReader(object):
 			value = s.removeSpaces(value)
 			return key,value
 		return None,None
+
+class SuperMapReader(MapReader):
+	"""
+	This extends the MapReader class to handle nested maps
+	"""
+	def __init__(self,fileIn):
+		"""
+	Initializes the SuperMapReader class.  Passes filein to 
+	MapReader.
+		"""
+		MapReader.__init__(self,fileIn)
+		self.superKey = ''
+
+	def __del__(self):
+		"""
+	Cleans the SuperMapReader class.  Closes any open files.
+		"""
+		MapReader.__del__(self)
+
+	def getMap(self):
+		mapOut = {}
+		while self.reading:
+			superkey,subkey,value = self._getNextPair()
+			if superkey is not None:
+				if self.superKey != superkey:
+					mapOut[superkey] = {}
+					self.superKey = superkey
+				mapOut[superkey][subkey] = value
+		return mapOut
+
+	def _getNextPair(self):
+		"""
+	Gets the next pair.  Conditional with a new super key.
+		"""
+		text = self.fid.readline()
+		if text == '':
+			self.reading = False
+		else:
+			if not self._isSubKey(text):
+				key = s.subStrByChar(text,'','\t')
+				key = s.removeSpaces(key)
+				subKey = s.subStrByChar(text,'\t','\t')
+				subKey = s.removeSpaces(subKey)
+				value = s.subStrByChar(text,'\t','\n',True)
+				value = s.removeSpaces(value)
+				return key,subKey,value
+			else:
+				subKey = s.subStrByChar(text,'\t','\t')
+				subKey = s.removeSpaces(subKey)
+				value = s.subStrByChar(text,'\t','\n',True)
+				value = s.removeSpaces(value)
+				return self.superKey,subKey,value
+		return None,None,None
+
+	def _isSubKey(self,textIn):
+		"""
+	Checks for a subKey
+		"""
+		if textIn.find('\t') == 0:
+			return True
+		return False
