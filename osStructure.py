@@ -26,6 +26,7 @@ class OpenAccount(object):
 		"""
 		self.customer = s.removeSpaces(customer)
 		self.orders = []
+		self.postedtotalSales = 0
 		self.building = True
 		self.reported = False
 
@@ -50,6 +51,16 @@ class OpenAccount(object):
 		"""
 		sale = item.salesRate*float(item.quantity)
 		self.orders[-1].totalSales += sale
+
+
+	def _setSalesTotal(self,salesTotal):
+		"""
+	Add sales total to order class
+		"""
+		salesTotal = s.removeSpaces(salesTotal)
+		salesTotal = s.removeCommas(salesTotal)
+		salesTotal = s.removeReturns(salesTotal)
+		self.postedtotalSales = salesTotal
 
 class Order(object):
 	"""

@@ -98,6 +98,12 @@ class OSCreator(csv.CSVCreator):
 				print(cost)
 				self.account._addItemToOrder(item,quantity,cost)
 
+			elif eventIn == -1:
+				print("Extract Sales Data")
+				salesTotal = self.iterText("Sales Total")
+				print(salesTotal)
+				self.account._setSalesTotal(salesTotal)
+
 	def _setEntry(self):
 		"""
 	Write entry to csv
@@ -113,4 +119,5 @@ class OSCreator(csv.CSVCreator):
 				self._setField(item.quantity); self._nextField()
 				self._setField(str(round(item.costRate,2))); self._nextField()
 				self._setField(str(round(item.salesRate,2))); self._nextField()
-				self._setField(str(round(order.totalSales,2)));self._nextEntry()
+				self._setField(str(round(order.totalSales,2)));self._nextField()
+				self._setField(str(round(self.account.postedTotalSales,2))); self._nextEntry()

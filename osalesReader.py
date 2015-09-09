@@ -67,8 +67,10 @@ class OSReader(f.TxtFileReader):
 			out = None
 		elif self._isCTerminate():
 			self._printDiagnostics(DIAG,False)
-			self.eventState = 0
-			out = None	
+			#self.eventState = 0
+			#out = None	
+			self.eventState = -1
+			out = self.buffer
 		elif self._unlock():
 			self.lock = False
 			self.eventState += 1
@@ -86,7 +88,7 @@ class OSReader(f.TxtFileReader):
 		"""
 	Checks the event state and passes a key to the buffer
 		"""
-		if self.eventState == 0:
+		if self.eventState <= 0:
 			key = CUST_KEY
 		elif self.eventState == 1:
 			key = ORDER_KEY
