@@ -28,7 +28,7 @@ class OSCreator(csv.CSVCreator):
 		csv.CSVCreator.__init__(self)
 		self.account = None
 		self.header = ['Customer','Order No.','Date','PO No.','Item',\
-		'Quantity','Cost Rate','Price Rate']
+		'Quantity','Cost Rate','Price Rate','Total Sales']
 		self.indices = {'Customer':[26,34],'Order No.':[26,36],'Date':[55,66],\
 		'PO No.':[107,150],'Item':[40,70],'Quantity':[70,83],'Cost':[85,111]}
 		self._createCSV()
@@ -112,4 +112,5 @@ class OSCreator(csv.CSVCreator):
 				self._setField(item.item); self._nextField()
 				self._setField(item.quantity); self._nextField()
 				self._setField(str(round(item.costRate,2))); self._nextField()
-				self._setField(str(round(item.salesRate,2))); self._nextEntry()
+				self._setField(str(round(item.salesRate,2))); self._nextField()
+				self._setField(str(round(order.totalSales,2)));self._nextEntry()

@@ -40,7 +40,16 @@ class OpenAccount(object):
 	Add item to existing order
 		"""
 		item = Item(item,quantity,cost)
+		item._setSalesRate(self.customer)
+		self._addItemSaleToOrder(item)
 		self.orders[-1].items.append(item)
+
+	def _addItemSaleToOrder(self,item):
+		"""
+	Add sales from item to order
+		"""
+		sale = item.salesRate*float(item.quantity)
+		self.orders[-1].totalSales += sale
 
 class Order(object):
 	"""
@@ -55,6 +64,7 @@ class Order(object):
 		self.date = s.removeSpaces(date)
 		self.PO = s.removeReturns(s.removeSpaces(PO))
 		self.items = []
+		self.totalSales = 0
 		self.building = True
 
 class Item(object):
@@ -83,4 +93,7 @@ class Item(object):
 		"""
 	Set the rate of the sales price
 		"""
-		self.salesRate = float(PRICE_MAP[customer][self.item])
+		try:
+			self.salesRate = float(PRICE_MAP[customer][self.item])
+		except KeyError:
+			self.salesRate = 0
