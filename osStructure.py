@@ -29,12 +29,18 @@ class OpenAccount(object):
 		self.building = True
 		self.reported = False
 
-	def _addOrder(self,order,date):
+	def _addOrder(self,order,date,PO):
 		"""
 	Add order to account
 		"""
-		newOrder = Order(order,date)
-		if not newOrder.building
+		self.orders.append(Order(order,date,PO))
+		
+	def _addItemToOrder(self,item,quantity,cost):
+		"""
+	Add item to existing order
+		"""
+		item = Item(item,quantity,cost)
+		self.orders[-1].items.append(item)
 
 class Order(object):
 	"""
@@ -47,7 +53,7 @@ class Order(object):
 		"""
 		self.order = s.removeSpaces(orderNo)
 		self.date = s.removeSpaces(date)
-		self.PO = s.removeSpaces(PO)
+		self.PO = s.removeReturns(s.removeSpaces(PO))
 		self.items = []
 		self.building = True
 
@@ -61,8 +67,8 @@ class Item(object):
 	to fulfill the order and the cost of the item.
 		"""
 		self.item = s.removeSpaces(item)
-		self.quantity = s.removeSpaces(quantity)
-		self.cost = s.removeSpaces(cost)
+		self.quantity = s.removeCommas(s.removeSpaces(quantity))
+		self.cost = s.removeCommas(s.removeSpaces(cost))
 		self.costRate = self._setCostRate()
 		self.salesRate = 0
 		self.building = True

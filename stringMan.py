@@ -99,7 +99,21 @@ def removeMinus(textIn):
 	"""
 	loc = textIn.find('-')
 	if loc != -1:
-		return removeCommas(textIn[:loc] + textIn[loc+1:])
+		return removeMinus(textIn[:loc] + textIn[loc+1:])
+	return textIn
+
+def removeReturns(textIn):
+	"""
+	This function searches incoming text for a \n and \r and returns text with
+	it removed.
+	"""
+	loc = textIn.find('\n')
+	if loc != -1:
+		return removeReturns(textIn[:loc] + textIn[loc+1:])
+	else:
+		loc = textIn.find('\r')
+		if loc != -1:
+			return removeReturns(textIn[:loc] + textIn[loc+1:])
 	return textIn
 
 def subStrByChar(textIn,char1,char2,reverse=False):
