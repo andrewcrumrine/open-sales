@@ -26,7 +26,9 @@ class OpenAccount(object):
 		"""
 		self.customer = s.removeSpaces(customer)
 		self.orders = []
-		self.postedtotalSales = 0
+		self.postedTotalSales = 0.0
+		self.calculatedTotalSales = 0.0
+		self.difference = 0
 		self.building = True
 		self.reported = False
 
@@ -55,12 +57,23 @@ class OpenAccount(object):
 
 	def _setSalesTotal(self,salesTotal):
 		"""
-	Add sales total to order class
+	Add sales total to account class
 		"""
 		salesTotal = s.removeSpaces(salesTotal)
 		salesTotal = s.removeCommas(salesTotal)
 		salesTotal = s.removeReturns(salesTotal)
-		self.postedtotalSales = salesTotal
+		self.postedTotalSales = float(salesTotal)
+		self._setCalculatedTotal()
+
+	def _setCalculatedTotal(self):
+		"""
+	Add sales totals from all orders find the difference
+		"""
+		calcSales = 0
+		for order in self.orders:
+			calcSales += order.totalSales
+		self.calculatedTotalSales = calcSales
+		self.difference = calcSales - self.postedTotalSales
 
 class Order(object):
 	"""

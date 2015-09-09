@@ -89,6 +89,7 @@ class OSReader(f.TxtFileReader):
 	Checks the event state and passes a key to the buffer
 		"""
 		if self.eventState <= 0:
+			self.eventState = 0
 			key = CUST_KEY
 		elif self.eventState == 1:
 			key = ORDER_KEY

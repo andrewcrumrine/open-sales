@@ -28,9 +28,12 @@ class OSCreator(csv.CSVCreator):
 		csv.CSVCreator.__init__(self)
 		self.account = None
 		self.header = ['Customer','Order No.','Date','PO No.','Item',\
-		'Quantity','Cost Rate','Price Rate','Total Sales']
+		'Quantity','Cost Rate','Price Rate','Total Sales','Posted Sales',\
+		'Diff. From Actual']
 		self.indices = {'Customer':[26,34],'Order No.':[26,36],'Date':[55,66],\
-		'PO No.':[107,150],'Item':[40,70],'Quantity':[70,83],'Cost':[85,111]}
+		'PO No.':[107,150],'Item':[40,70],'Quantity':[70,83],'Cost':[85,111],\
+		'Sales Total': [105,-2]}
+		self.event = 0
 		self._createCSV()
 		self._createHeader()
 
@@ -50,11 +53,11 @@ class OSCreator(csv.CSVCreator):
 		print("---NEW LINE----")
 		self._setText(textIn)
 		if self.account is not None:
-			if eventIn == 1 and not self.account.reported:
+			if eventIn == -1 and not self.account.reported:
 				print("Print Entry")
 				self.account.reported = True
-				self._setEntry()
 				self._buildAccount(eventIn)
+				self._setEntry()
 			else:
 				print("Create New Account")
 				self._buildAccount(eventIn)
@@ -73,7 +76,7 @@ class OSCreator(csv.CSVCreator):
 			self.account = oS.OpenAccount(customer)
 
 		elif self.account is not None:
-			if eventIn == 1:
+			if eventIn == 1 and self.event < 2:
 				print("Replace Existing Customer")
 				customer = self.iterText('Customer')
 				print(customer)
@@ -103,15 +106,16 @@ class OSCreator(csv.CSVCreator):
 				salesTotal = self.iterText("Sales Total")
 				print(salesTotal)
 				self.account._setSalesTotal(salesTotal)
+		self.event = eventIn
 
 	def _setEntry(self):
 		"""
 	Write entry to csv
 		"""
-		cust = self.account.customer
-		for order in self.account.orders:
+		acct = self.account
+		for order in acct.orders:
 			for item in order.items:
-				self._setField(cust); self._nextField()
+				self._setField(acct.customer); self._nextField()
 				self._setField(order.order); self._nextField()
 				self._setField(order.date); self._nextField()
 				self._setField(order.PO); self._nextField()
@@ -120,4 +124,5 @@ class OSCreator(csv.CSVCreator):
 				self._setField(str(round(item.costRate,2))); self._nextField()
 				self._setField(str(round(item.salesRate,2))); self._nextField()
 				self._setField(str(round(order.totalSales,2)));self._nextField()
-				self._setField(str(round(self.account.postedTotalSales,2))); self._nextEntry()
+				self._setField(str(round(acct.postedTotalSales,2))); self._nextField()
+				self._setField(str(round(acct.difference,2))); self._nextEntry()

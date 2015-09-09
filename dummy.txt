@@ -1,0 +1,51 @@
+ Customer number  . . :   80280000  ARROW PAPER COMPANY
+    Order number  . . :   CO   74094  Request date  . :    8/26/15   Mfg date  . :    8/26/15   PO No.  . :   019124
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/26/15  8/26/15  8/26/15 N           FLOW15                             4.000   CS              129.60000000  *
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74094 Order totals ***                                                      129.600                 177.88
+    Order number  . . :   CO   74173  Request date  . :    9/11/15   Mfg date  . :    9/11/15   PO No.  . :   019290
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/11/15  9/11/15  9/11/15 N           FWW6                              20.000   CS              394.00000000
+                                             6X10-3/4" WAX WRAP
+  9/11/15  9/11/15  9/11/15 N           FWW8                              20.000   CS              526.40000000
+                                             8X10-3/4" WAX WRAP
+  9/11/15  9/11/15  9/11/15 N           F25Q1MECO                         60.000   CS            1,597.20000000
+                                             25# ECO BAKE PAN LINER 1M
+  9/11/15  9/11/15  9/11/15 N           F25Q1MPLAIN                      150.000   CS            3,231.00000000
+                                             25# QUILON LINER PLAIN GRN 1M
+  9/11/15  9/11/15  9/11/15 N           F12DEL                            10.000   RL              102.20000000
+                                             12" DELWRAP
+  9/11/15  9/11/15  9/11/15 N           F1520SUB                          30.000   CS              700.50000000
+                                             15X20" SUBWRAP
+ AMBD5PFR   QSECOFR                             Open Orders/Back Orders by Customer                            9/02/15     Page    3
+                                                                                                              13:30:04  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . . :   80280000  ARROW PAPER COMPANY
+    Order number  . . :   CO   74173  Request date  . :    9/11/15   Mfg date  . :    9/11/15   PO No.  . :   019290
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/11/15  9/11/15  9/11/15 N           F15DEL                             5.000   RL               63.60000000
+                                             15" DELWRAP
+  9/11/15  9/11/15  9/11/15 N           F912DEL                            2.000   CS               63.10000000
+                                             9X12" DELWRAP
+  9/11/15  9/11/15  9/11/15 N           F1520MGDW                         30.000   CS              728.70000000
+                                             15X20" MG DW 50LBS/CS
+  9/11/15  9/11/15  9/11/15 N           F15MP                              5.000   RL               74.10000000
+                                             15" MEAT PAK
+  9/11/15  9/11/15  9/11/15 N           FLOW15                            20.000   CS              648.00000000
+                                             15X10-3/4" LOGAN WRAP
+  9/11/15  9/11/15  9/11/15 N           FLOW8                             20.000   CS              366.20000000
+                                             8X10-3/4"LOGAN WRAP
+  9/11/15  9/11/15  9/11/15 N           F25Q1216                           1.000   CS               49.64000000
+                                             12X16"25#QUILON 4/1M PER CS
+  9/11/15  9/11/15  9/11/15 N           FLOW10                            25.000   CS              566.50000000
+                                             10X10-3/4" LOGAN WRAP
+  9/11/15  9/11/15  9/11/15 N           G15072 FADEN                       1.000   CS               17.00000000
+                                             8-3/16X24-3/8"25QUIL.4M/CSFAD.
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74173 Order totals ***                                                    9,128.140              13,606.31
+       ***     80280000 Customer totals ***                                                    9,257.740              13,784.19
