@@ -1,0 +1,1911 @@
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page    1
+                                                                                                              15:26:25  S109751F  MM
+ Report options:
+   Process all orders . . . . . . :   Y
+   Beginning request date . . . . :
+   Ending request date  . . . . . :   99/99/99
+   Include credit memos . . . . . :   Y
+   Print only backordered items . :   N
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   82561000  MULTIFAB, INC.
+ Request date . . . :    1/19/15 Order no. :   CO   72545 Sold to :   MULTIFAB, INC.                      PO: 0338717
+ Manufacturing date :    1/19/15 Priority  :              Ship to :   MULTIFAB, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  1/19/15  1/19/15  1/19/15 N           F1515LOW                           4.000   CS              146.24000000  *
+                                             15X15"DW 21/24#BLKFT W/S 4/1M
+  1/19/15  1/19/15  1/19/15 N           F88LOW                            10.000   CS              273.50000000  *
+                                             8X8" 18/21# W/S DW 8/1M
+  1/19/15  1/19/15  1/19/15 N           F1212LOW                           5.000   CS              175.85000000  *
+                                             12X12"DW18/21BLKFT6/1M
+  1/19/15  1/19/15  1/19/15 N           F1010LOW                          15.000   CS              372.00000000  *
+                                             10X10"DW18/21#W/S BL KFT 6/1M
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   72545 Order totals ***                                                      967.590               1,331.55
+       ***  1/19/15 Request date totals ***                                                      967.590               1,331.55
+ Customer number  . :   82867600  RP BAKING, LLC
+ Request date . . . :    2/10/15 Order no. :   CO   72611 Sold to :   RP BAKING, LLC                      PO:
+ Manufacturing date :    2/10/15 Priority  :              Ship to :   PECHTER'S BAKING GROUP LLC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  2/10/15  2/10/15  2/10/15 N           G17913 HARRISON               10,000.000   LB            9,700.00000000
+                                             21-1/2" DNR DLGHT WHITE 36OZ
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   72611 Order totals ***                                                    9,700.000              17,300.00
+       ***  2/10/15 Request date totals ***                                                    9,700.000              17,300.00
+ Customer number  . :   82867600  RP BAKING, LLC
+ Request date . . . :    2/15/15 Order no. :   CO   72606 Sold to :   RP BAKING, LLC                      PO:
+ Manufacturing date :    2/15/15 Priority  :              Ship to :   PECHTER'S BAKING GROUP LLC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  2/15/15  2/15/15  2/15/15 N           G17917 HARRISON                2,000.000   LB            1,800.00000000
+                                             22.5"#3RYE NK NAT'KRAFT BLACK
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   72606 Order totals ***                                                    1,800.000               3,460.00
+       ***  2/15/15 Request date totals ***                                                    1,800.000               3,460.00
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page    2
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81312900  FOOD PACKAGING CONSULTANTS, INC.
+ Request date . . . :    2/23/15 Order no. :   CO   72628 Sold to :   FOOD PACKAGING CONSULTANTS, INC.    PO: 2592
+ Manufacturing date :    2/23/15 Priority  :              Ship to :   ALPHA BAKING
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  2/23/15  2/23/15  2/23/15 N           G12304 CM                        143.000   LB              144.43000000  *
+                                             22"W MARYANN GREEK TT 2# 23010
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   72628 Order totals ***                                                      144.430                 275.99
+       ***  2/23/15 Request date totals ***                                                      144.430                 275.99
+ Customer number  . :   82867600  RP BAKING, LLC
+ Request date . . . :    4/15/15 Order no. :   CO   72894 Sold to :   RP BAKING, LLC                      PO:
+ Manufacturing date :    4/15/15 Priority  :              Ship to :   PECHTER'S BAKING GROUP LLC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  4/15/15  4/15/15  4/15/15 N           G17916 HARRISON                4,000.000   LB            3,880.00000000
+                                             21-1/2" EGG 36OZ  BROWN&YELLOW
+  4/15/15  4/15/15  4/15/15 N           G17918 HARRISON                2,000.000   LB            1,940.00000000
+                                             23-1/2" #4 RYE BL KRFT   RED
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   72894 Order totals ***                                                    5,820.000              10,380.00
+       ***  4/15/15 Request date totals ***                                                    5,820.000              10,380.00
+ Customer number  . :   82497600  MONTEFORTE ITALIAN BAKERY
+ Request date . . . :    4/30/15 Order no. :   CO   73104 Sold to :   MONTEFORTE ITALIAN BAKERY           PO:
+ Manufacturing date :    4/30/15 Priority  :              Ship to :   MONTEFORTE ITALIAN BAKERY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  4/30/15  4/30/15  4/30/15 N           G21677 MONTE                   2,000.000   LB            1,920.00000000
+                                             22"RYE GHL"BAKERS BEST" 25/38#
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73104 Order totals ***                                                    1,920.000               3,120.00
+       ***  4/30/15 Request date totals ***                                                    1,920.000               3,120.00
+ Customer number  . :   82790500  PALISADES PACKAGING CO.
+ Request date . . . :    5/01/15 Order no. :   CO   73106 Sold to :   PALISADES PACKAGING CO.             PO:
+ Manufacturing date :    5/01/15 Priority  :              Ship to :   ROCKLAND BAKERY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  5/01/15  5/01/15  5/01/15 N           G25081 ROCKLAND                2,055.000   LB            1,972.80000000  *
+                                             22"W GHL 10-1/2"OD RYE
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73106 Order totals ***                                                    1,972.800               3,349.65
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page    3
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+       ***  5/01/15 Request date totals ***                                                    1,972.800               3,349.65
+ Customer number  . :   82497600  MONTEFORTE ITALIAN BAKERY
+ Request date . . . :    5/20/15 Order no. :   CO   73335 Sold to :   MONTEFORTE ITALIAN BAKERY           PO:
+ Manufacturing date :    5/20/15 Priority  :              Ship to :   MONTEFORTE ITALIAN BAKERY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  5/20/15  5/20/15  5/20/15 N           G21675 MONTE                   1,059.000   LB            1,016.64000000  *
+                                             22"WHITE GHL BAKERS BEST 25/38
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73335 Order totals ***                                                    1,016.640               1,652.04
+ Customer number  . :   82867600  RP BAKING, LLC
+ Request date . . . :    5/20/15 Order no. :   CO   73336 Sold to :   RP BAKING, LLC                      PO:
+ Manufacturing date :    5/20/15 Priority  :              Ship to :   PECHTER'S BAKING GROUP LLC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  5/20/15  5/20/15  5/20/15 N           G17909 HARRISON                2,979.000   LB            2,889.63000000  *
+                                             22-1/2" #3 RYE 45OZ RED & BLUE
+  5/20/15  5/20/15  5/20/15 N           G17916 HARRISON                4,000.000   LB            3,880.00000000  *
+                                             21-1/2" EGG 36OZ  BROWN&YELLOW
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73336 Order totals ***                                                    6,769.630              12,073.67
+       ***  5/20/15 Request date totals ***                                                    7,786.270              13,725.71
+ Customer number  . :   82867600  RP BAKING, LLC
+ Request date . . . :    6/10/15 Order no. :   CO   73105 Sold to :   RP BAKING, LLC                      PO:
+ Manufacturing date :    6/10/15 Priority  :              Ship to :   PECHTER'S BAKING GROUP LLC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  6/10/15  6/10/15  6/10/15 N           G17905 HARRISON               10,000.000   LB            9,700.00000000
+                                             21-1/2" DNR DELGHT WHOLE WHEAT
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73105 Order totals ***                                                    9,700.000              17,300.00
+       ***  6/10/15 Request date totals ***                                                    9,700.000              17,300.00
+ Customer number  . :   81312900  FOOD PACKAGING CONSULTANTS, INC.
+ Request date . . . :    6/26/15 Order no. :   CO   73632 Sold to :   FOOD PACKAGING CONSULTANTS, INC.    PO: 2783
+ Manufacturing date :    6/26/15 Priority  :              Ship to :   ALPHA BAKING
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  6/26/15  6/26/15  6/26/15 N           G12302 CM                         93.000   LB               93.93000000  *
+                                             22"W MARYANN WHITE PULL 23011
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page    4
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81312900  FOOD PACKAGING CONSULTANTS, INC.
+ Request date . . . :    6/26/15 Order no. :   CO   73632 Sold to :   FOOD PACKAGING CONSULTANTS, INC.    PO: 2783
+ Manufacturing date :    6/26/15 Priority  :              Ship to :   ALPHA BAKING
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  6/26/15  6/26/15  6/26/15 N           G12305 CM                      1,008.000   LB            1,018.08000000  *
+                                             17"W MARYAN WHITECLUB1.5#23012
+  6/26/15  6/26/15  6/26/15 N           G12303 CM                      1,172.000   LB            1,183.72000000  *
+                                             22"W MARYANN WHEAT PULL 23009
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73632 Order totals ***                                                    2,295.730               4,386.89
+       ***  6/26/15 Request date totals ***                                                    2,295.730               4,386.89
+ Customer number  . :   82497600  MONTEFORTE ITALIAN BAKERY
+ Request date . . . :    7/15/15 Order no. :   CO   73669 Sold to :   MONTEFORTE ITALIAN BAKERY           PO:
+ Manufacturing date :    7/15/15 Priority  :              Ship to :   MONTEFORTE ITALIAN BAKERY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  7/15/15  7/15/15  7/15/15 N           G21676 MONTE                   3,372.000   LB            3,237.12000000  *
+                                             22"WHEAT GHL BAKERS BEST 25/38
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73669 Order totals ***                                                    3,237.120               5,260.32
+       ***  7/15/15 Request date totals ***                                                    3,237.120               5,260.32
+ Customer number  . :   81812400  J.J. CASSONE BAKERY, INC.
+ Request date . . . :    7/20/15 Order no. :   CO   73586 Sold to :   J.J. CASSONE BAKERY, INC.           PO:
+ Manufacturing date :    7/20/15 Priority  :              Ship to :   SUNRISE BAKERY ENTERPRISE C/O
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  7/20/15  7/20/15  7/20/15 N           G19410 JJC                     2,035.000   LB            2,055.35000000  *
+                                             22"WHITE"25/40LB
+  7/20/15  7/20/15  7/20/15 N           G19411 JJC                     4,000.000   LB            4,040.00000000  *
+                                             22"WHEAT"25/40LB
+  7/20/15  7/20/15  7/20/15 N           G19412 JJC                     2,000.000   LB            2,020.00000000  *
+                                             23.5"RYE"25/40LB.
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73586 Order totals ***                                                    8,115.350              13,177.40
+ Customer number  . :   80257500  APPCO PAPER & PLASTICS
+ Request date . . . :    7/20/15 Order no. :   CO   73702 Sold to :   APPCO PAPER & PLASTICS              PO: 20151521212
+ Manufacturing date :    7/20/15 Priority  :              Ship to :   N.Y.C. DEPT.OF CORRECTION
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page    5
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   80257500  APPCO PAPER & PLASTICS
+ Request date . . . :    7/20/15 Order no. :   CO   73702 Sold to :   APPCO PAPER & PLASTICS              PO: 20151521212
+ Manufacturing date :    7/20/15 Priority  :              Ship to :   N.Y.C. DEPT.OF CORRECTION
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  7/20/15  7/20/15  7/20/15 N           G22300NYC.DEPT                12,552.000   LB            9,539.52000000  *
+                                             20-1/2GHL26-P7:89/10-1/2ODRINY
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73702 Order totals ***                                                    9,539.520              18,200.40
+       ***  7/20/15 Request date totals ***                                                   17,654.870              31,377.80
+ Customer number  . :   82790500  PALISADES PACKAGING CO.
+ Request date . . . :    7/30/15 Order no. :   CO   73479 Sold to :   PALISADES PACKAGING CO.             PO: 105154
+ Manufacturing date :    7/30/15 Priority  :              Ship to :   ROCKLAND BAKERY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  7/30/15  7/30/15  7/30/15 N           G25079 ROCKLAND                1,223.000   LB            1,174.08000000  *
+                                             22"W GHL 10-1/2"OD WHITE
+  7/30/15  7/30/15  7/30/15 N           G25080 ROCKLAND                2,036.000   LB            1,954.56000000  *
+                                             22"W GHL 10-1/2"OD WHEAT
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73479 Order totals ***                                                    3,128.640               5,312.17
+       ***  7/30/15 Request date totals ***                                                    3,128.640               5,312.17
+ Customer number  . :   81591500  I. HALPER PAPER
+ Request date . . . :    8/03/15 Order no. :   CO   73772 Sold to :   I. HALPER PAPER                     PO: 35227
+ Manufacturing date :    8/03/15 Priority  :              Ship to :   I. HALPER PAPER
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/03/15  8/03/15  8/03/15 N           G17760 I.HAL                      50.000   CS            3,300.00000000
+                                             14X14"GP"WICHCRAFT"4/1M
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73772 Order totals ***                                                    3,300.000               4,000.00
+       ***  8/03/15 Request date totals ***                                                    3,300.000               4,000.00
+ Customer number  . :   82790500  PALISADES PACKAGING CO.
+ Request date . . . :    8/05/15 Order no. :   CO   73796 Sold to :   PALISADES PACKAGING CO.             PO:
+ Manufacturing date :    8/05/15 Priority  :              Ship to :   ROCKLAND BAKERY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/05/15  8/05/15  8/05/15 N           G25081 ROCKLAND                2,044.000   LB            1,962.24000000  *
+                                             22"W GHL 10-1/2"OD RYE
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73796 Order totals ***                                                    1,962.240               3,331.72
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page    6
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+       ***  8/05/15 Request date totals ***                                                    1,962.240               3,331.72
+ Customer number  . :   82867600  RP BAKING, LLC
+ Request date . . . :    8/15/15 Order no. :   CO   73797 Sold to :   RP BAKING, LLC                      PO:
+ Manufacturing date :    8/15/15 Priority  :              Ship to :   PECHTER'S BAKING GROUP LLC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/15/15  8/15/15  8/15/15 N           G17913 HARRISON               10,000.000   LB            9,700.00000000
+                                             21-1/2" DNR DLGHT WHITE 36OZ
+  8/15/15  8/15/15  8/15/15 N           G17916 HARRISON                5,000.000   LB            4,850.00000000
+                                             21-1/2" EGG 36OZ  BROWN&YELLOW
+  8/15/15  8/15/15  8/15/15 N           G17918 HARRISON                2,000.000   LB            1,940.00000000
+                                             23-1/2" #4 RYE BL KRFT   RED
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73797 Order totals ***                                                   16,490.000              29,410.00
+ Customer number  . :   80694000  CHEMVENTURE
+ Request date . . . :    8/15/15 Order no. :   CO   73856 Sold to :   CHEMVENTURE                         PO: VERBAL TOM
+ Manufacturing date :    8/15/15 Priority  :              Ship to :   CHEMVENTURE
+    PREPAY & ADD FRT TO INV.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/15/15  8/15/15  8/15/15 N           G12879 CV                      1,000.000   LB              850.00000000  *
+                                             16X22"25/40 LB BL KFT 50#/CS
+  8/15/15  8/15/15  8/15/15 N           G12880 CV                        250.000   LB              212.50000000  *
+                                             17X19#25/40 LB BL KFT 50 LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73856 Order totals ***                                                    1,062.500               1,362.50
+       ***  8/15/15 Request date totals ***                                                   17,552.500              30,772.50
+ Customer number  . :   82497600  MONTEFORTE ITALIAN BAKERY
+ Request date . . . :    8/17/15 Order no. :   CO   73843 Sold to :   MONTEFORTE ITALIAN BAKERY           PO:
+ Manufacturing date :    8/17/15 Priority  :              Ship to :   MONTEFORTE ITALIAN BAKERY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/17/15  8/17/15  8/17/15 N           G21681 MONTE                     480.000   LB              460.80000000  *
+                                             22"TEXAS TOAST 25/38#GHL
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73843 Order totals ***                                                      460.800                 748.80
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :    8/17/15 Order no. :   CO   73973 Sold to :   JETRO CASH & CARRY                  PO: 882-16534
+ Manufacturing date :    8/17/15 Priority  :              Ship to :   RESTAURANT DEPOT #882
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page    7
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :    8/17/15 Order no. :   CO   73973 Sold to :   JETRO CASH & CARRY                  PO: 882-16534
+ Manufacturing date :    8/17/15 Priority  :              Ship to :   RESTAURANT DEPOT #882
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/17/15  8/17/15  8/17/15 N           G24287 RD                          6.000   RL               50.40000000  *
+                                             18"W WHITE BUTCHER 78787900223
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73973 Order totals ***                                                       50.400                  72.30
+       ***  8/17/15 Request date totals ***                                                      511.200                 821.10
+ Customer number  . :   80610700  BUNZL NEW JERSEY, INC.
+ Request date . . . :    8/20/15 Order no. :   CO   73859 Sold to :   BUNZL NEW JERSEY, INC.              PO:
+ Manufacturing date :    8/20/15 Priority  :              Ship to :   BUNZL NEW JERSEY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/20/15  8/20/15  8/20/15 N           G12055 BUNZL NJ                  160.000   CS            4,572.80000000
+                                             9.5X16"WW BLEACHED 2M/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73859 Order totals ***                                                    4,572.800               8,560.00
+       ***  8/20/15 Request date totals ***                                                    4,572.800               8,560.00
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :    8/24/15 Order no. :   CO   74027 Sold to :   RD FOOD SERVICE                     PO: 804-57028
+ Manufacturing date :    8/24/15 Priority  :              Ship to :   RESTAURANT DEPOT #804
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/24/15  8/24/15  8/24/15 N           FLOW15                            36.000   CS            1,166.40000000  *
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74027 Order totals ***                                                    1,166.400               1,466.64
+ Customer number  . :   82917000  PERFORMANCE FOODSERVICE
+ Request date . . . :    8/24/15 Order no. :   CO   74068 Sold to :   PERFORMANCE FOODSERVICE             PO: 628690
+ Manufacturing date :    8/24/15 Priority  :              Ship to :   PERFORMANCE FOODSERVICE
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/24/15  8/24/15  8/24/15 N           F15WW                              4.000   RL               50.88000000  *
+                                             15"WW
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74068 Order totals ***                                                       50.880                 105.88
+       ***  8/24/15 Request date totals ***                                                    1,217.280               1,572.52
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page    8
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   80280000  ARROW PAPER COMPANY
+ Request date . . . :    8/26/15 Order no. :   CO   74094 Sold to :   ARROW PAPER COMPANY                 PO: 019124
+ Manufacturing date :    8/26/15 Priority  :              Ship to :   ARROW PAPER COMPANY
+    ECO TO BE STAMPED KOSHER
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/26/15  8/26/15  8/26/15 N           FLOW15                             4.000   CS              129.60000000  *
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74094 Order totals ***                                                      129.600                 177.88
+ Customer number  . :   80832700  COSTAS PROVISIONS CORP
+ Request date . . . :    8/26/15 Order no. :   CO   74109 Sold to :   COSTAS PROVISIONS CORP              PO: 305
+ Manufacturing date :    8/26/15 Priority  :              Ship to :   COSTAS PROVISIONS CORP
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/26/15  8/26/15  8/26/15 N           F25Q1MPLAIN                      244.000   CS            5,255.76000000
+                                             25# QUILON LINER PLAIN GRN 1M
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74109 Order totals ***                                                    5,255.760               7,571.32
+       ***  8/26/15 Request date totals ***                                                    5,385.360               7,749.20
+ Customer number  . :   81537000  GRIFF PAPER AND FILM COMPANY
+ Request date . . . :    8/28/15 Order no. :   CO   74110 Sold to :   GRIFF PAPER AND FILM COMPANY        PO: 15615
+ Manufacturing date :    8/28/15 Priority  :              Ship to :   GRIFF PAPER AND FILM COMPANY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/28/15  8/28/15  8/28/15 N           G17455 GRIFF                     279.000   LB              111.60000000  *
+                                             36X60"WW BLKFT
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74110 Order totals ***                                                      111.600                 304.11
+       ***  8/28/15 Request date totals ***                                                      111.600                 304.11
+ Customer number  . :   81780000  IMPERIAL BAG & PAPER CO
+ Request date . . . :    8/31/15 Order no. :   CO   74096 Sold to :   IMPERIAL BAG & PAPER CO             PO: 497922
+ Manufacturing date :    8/31/15 Priority  :              Ship to :   IMPERIAL BAG & PAPER CO
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/31/15  8/31/15  8/31/15 N           G19183IMPERIALB                    2.000   M                 9.50000000  *
+                                             7.5 X 10" QUILON  1M
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74096 Order totals ***                                                        9.500                  22.14
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page    9
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81780000  IMPERIAL BAG & PAPER CO
+ Request date . . . :    8/31/15 Order no. :   CO   74143 Sold to :   IMPERIAL BAG & PAPER CO             PO: 498636
+ Manufacturing date :    8/31/15 Priority  :              Ship to :   IMPERIAL BAG & PAPER CO
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  8/31/15  8/31/15  8/31/15 N           FLTW15                            10.000   CS              366.60000000  *
+                                             15X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74143 Order totals ***                                                      366.600                 490.50
+       ***  8/31/15 Request date totals ***                                                      376.100                 512.64
+ Customer number  . :   82867600  RP BAKING, LLC
+ Request date . . . :    9/01/15 Order no. :   CO   73892 Sold to :   RP BAKING, LLC                      PO:
+ Manufacturing date :    9/01/15 Priority  :              Ship to :   PECHTER'S BAKING GROUP LLC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/01/15  9/01/15  9/01/15 N           G17905 HARRISON               10,000.000   LB            9,700.00000000
+                                             21-1/2" DNR DELGHT WHOLE WHEAT
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   73892 Order totals ***                                                    9,700.000              17,300.00
+ Customer number  . :   82963300  HAMPTON ROADS PAPER SUPPLY
+ Request date . . . :    9/01/15 Order no. :   CO   74136 Sold to :   HAMPTON ROADS PAPER SUPPLY          PO: 049130
+ Manufacturing date :    9/01/15 Priority  :              Ship to :   HAMPTON ROADS PAPER SUPPLY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/01/15  9/01/15  9/01/15 N           F1010DW                            4.000   CS               96.00000000  *
+                                             10X10" DW 35/40# 50#/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74136 Order totals ***                                                       96.000                 205.88
+ Customer number  . :   80530000  BORAX PAPER PRODUCTS, INC
+ Request date . . . :    9/01/15 Order no. :   CO   74138 Sold to :   BORAX PAPER PRODUCTS, INC           PO: 132935-bk
+ Manufacturing date :    9/01/15 Priority  :              Ship to :   BORAX PAPER PRODUCTS, INC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/01/15  9/01/15  9/01/15 N           F1212DEL                           5.000   CS              172.80000000  *
+                                             12X12" DELWRAP
+  9/01/15  9/01/15  9/01/15 N           F15DEL                             1.000   RL               12.72000000  *
+                                             15" DELWRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74138 Order totals ***                                                      185.520                 289.83
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   10
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81948300  KEYCO DIST. INC.
+ Request date . . . :    9/01/15 Order no. :   CO   74140 Sold to :   KEYCO DIST. INC.                    PO: 8-25-15
+ Manufacturing date :    9/01/15 Priority  :              Ship to :   KEYCO DIST. INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/01/15  9/01/15  9/01/15 N           F912LOW                            4.000   CS              106.16000000  *
+                                             9X12"DW 20/23# W/S BL KFT 6/1M
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74140 Order totals ***                                                      106.160                 200.96
+       ***  9/01/15 Request date totals ***                                                   10,087.680              17,996.67
+ Customer number  . :   82187500  LUCKY SUPPLY, INC.
+ Request date . . . :    9/02/15 Order no. :   CO   74157 Sold to :   LUCKY SUPPLY, INC.                  PO: A50725
+ Manufacturing date :    9/02/15 Priority  :              Ship to :   LUCKY SUPPLY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/02/15  9/02/15  9/02/15 N           G20810 LUCKY                       6.000   RL               31.50000000  *
+                                             15"MG
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74157 Order totals ***                                                       31.500                  47.34
+       ***  9/02/15 Request date totals ***                                                       31.500                  47.34
+ Customer number  . :   81580000  HACKENSACK SUPPLY CO
+ Request date . . . :    9/04/15 Order no. :   CO   74170 Sold to :   HACKENSACK SUPPLY CO                PO: 0901
+ Manufacturing date :    9/04/15 Priority  :              Ship to :   HACKENSACK SUPPLY CO
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/04/15  9/04/15  9/04/15 N           F15FPLT                           10.000   RL              143.60000000  *
+                                             15"W 35/40# POLY 1S 1MFT/RL
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74170 Order totals ***                                                      143.600                 205.00
+ Customer number  . :   81876500  JERSEY PAPER PLUS
+ Request date . . . :    9/04/15 Order no. :   CO   74208 Sold to :   JERSEY PAPER PLUS                   PO: 13489
+ Manufacturing date :    9/04/15 Priority  :              Ship to :   JERSEY PAPER PLUS
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/04/15  9/04/15  9/04/15 N           F69DEL                             2.000   CS               71.62000000  *
+                                             6X9" DELWRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74208 Order totals ***                                                       71.620                 109.34
+       ***  9/04/15 Request date totals ***                                                      215.220                 314.34
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   11
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81916600  JOSHEN PAPER CO.
+ Request date . . . :    9/05/15 Order no. :   CO   74066 Sold to :   JOSHEN PAPER CO.                    PO: 110422
+ Manufacturing date :    9/05/15 Priority  :              Ship to :   JOSHEN PAPER OF NJ
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/05/15  9/05/15  9/05/15 N           G19446 JP                         10.000   CS              380.00000000  *
+                                             18X18"DW"REDNERS"1M/CS
+  9/05/15  9/05/15  9/05/15 N           G19445 JP                         11.000   CS              575.19000000  *
+                                             15X15"DW"REDNERS" 2M/SHEETS/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74066 Order totals ***                                                      955.190               1,213.33
+       ***  9/05/15 Request date totals ***                                                      955.190               1,213.33
+ Customer number  . :   80257500  APPCO PAPER & PLASTICS
+ Request date . . . :    9/08/15 Order no. :   CO   74121 Sold to :   APPCO PAPER & PLASTICS              PO: 20151521212
+ Manufacturing date :    9/08/15 Priority  :              Ship to :   N.Y.C. DEPT.OF CORRECTION
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/08/15  9/08/15  9/08/15 N           G22300NYC.DEPT                13,850.000   LB           10,526.00000000  *
+                                             20-1/2GHL26-P7:89/10-1/2ODRINY
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74121 Order totals ***                                                   10,526.000              20,082.50
+ Customer number  . :   81780000  IMPERIAL BAG & PAPER CO
+ Request date . . . :    9/08/15 Order no. :   CO   74215 Sold to :   IMPERIAL BAG & PAPER CO             PO: 499450
+ Manufacturing date :    9/08/15 Priority  :              Ship to :   IMPERIAL BAG & PAPER CO
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/08/15  9/08/15  9/08/15 N           F1215NUP                          40.000   CS              978.40000000  *
+                                             12X15" NUPARCH
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74215 Order totals ***                                                      978.400               1,953.20
+       ***  9/08/15 Request date totals ***                                                   11,504.400              22,035.70
+ Customer number  . :   81312900  FOOD PACKAGING CONSULTANTS, INC.
+ Request date . . . :    9/11/15 Order no. :   CO   74046 Sold to :   FOOD PACKAGING CONSULTANTS, INC.    PO: 2874
+ Manufacturing date :    9/11/15 Priority  :              Ship to :   ALPHA BAKING
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/11/15  9/11/15  9/11/15 N           G12304 CM                      1,370.000   LB            1,383.70000000  *
+                                             22"W MARYANN GREEK TT 2# 23010
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74046 Order totals ***                                                    1,383.700               2,644.10
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   12
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   82796000  PAPERTEC INC.
+ Request date . . . :    9/11/15 Order no. :   CO   74147 Sold to :   PAPERTEC INC.                       PO: 27514
+ Manufacturing date :    9/11/15 Priority  :              Ship to :   MILLCRAFT PAPER COMPANY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/11/15  9/11/15  9/11/15 N           G23270 PT                         84.000   RL            3,505.32000000  *
+                                             36"40LB WET WAX 1200FT/RL
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74147 Order totals ***                                                    3,505.320               5,187.00
+ Customer number  . :   80280000  ARROW PAPER COMPANY
+ Request date . . . :    9/11/15 Order no. :   CO   74173 Sold to :   ARROW PAPER COMPANY                 PO: 019290
+ Manufacturing date :    9/11/15 Priority  :              Ship to :   ARROW PAPER COMPANY
+    ECO TO BE STAMPED KOSHER
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/11/15  9/11/15  9/11/15 N           F25Q1MECO                         10.000   CS              266.20000000  *
+                                             25# ECO BAKE PAN LINER 1M
+  9/11/15  9/11/15  9/11/15 N           F25Q1216                          29.000   CS            1,439.56000000
+                                             12X16"25#QUILON 4/1M PER CS
+  9/11/15  9/11/15  9/11/15 N           FLOW10                             1.000   CS               22.66000000  *
+                                             10X10-3/4" LOGAN WRAP
+  9/11/15  9/11/15  9/11/15 N           G15072 FADEN                       1.000   CS               17.00000000  *
+                                             8-3/16X24-3/8"25QUIL.4M/CSFAD.
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74173 Order totals ***                                                    1,745.420               2,788.13
+ Customer number  . :   82582500  NAPOLI FOODS, INC.
+ Request date . . . :    9/11/15 Order no. :   CO   74179 Sold to :   NAPOLI FOODS, INC.                  PO: 081356
+ Manufacturing date :    9/11/15 Priority  :              Ship to :   NAPOLI FOODS, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/11/15  9/11/15  9/11/15 N           FLOW8                             18.000   CS              329.58000000  *
+                                             8X10-3/4"LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74179 Order totals ***                                                      329.580                 520.20
+ Customer number  . :   80530000  BORAX PAPER PRODUCTS, INC
+ Request date . . . :    9/11/15 Order no. :   CO   74231 Sold to :   BORAX PAPER PRODUCTS, INC           PO: 133310-BK
+ Manufacturing date :    9/11/15 Priority  :              Ship to :   BORAX PAPER PRODUCTS, INC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/11/15  9/11/15  9/11/15 N           F25Q1MPLAIN                        3.000   CS               64.62000000  *
+                                             25# QUILON LINER PLAIN GRN 1M
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74231 Order totals ***                                                       64.620                  91.44
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   13
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+       ***  9/11/15 Request date totals ***                                                    7,028.640              11,230.87
+ Customer number  . :   80610700  BUNZL NEW JERSEY, INC.
+ Request date . . . :    9/16/15 Order no. :   CO   74309 Sold to :   BUNZL NEW JERSEY, INC.              PO: 427576 DIRECT
+ Manufacturing date :    9/16/15 Priority  :              Ship to :   FAIRWAY HARLEM LLC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/16/15  9/16/15  9/16/15 N           FWW6                               1.000   CS               19.70000000
+                                             6X10-3/4" WAX WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74309 Order totals ***                                                       19.700                  28.75
+       ***  9/16/15 Request date totals ***                                                       19.700                  28.75
+ Customer number  . :   80610700  BUNZL NEW JERSEY, INC.
+ Request date . . . :    9/18/15 Order no. :   CO   74310 Sold to :   BUNZL NEW JERSEY, INC.              PO: 427569 NORMAL
+ Manufacturing date :    9/18/15 Priority  :              Ship to :   BUNZL NEW JERSEY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/18/15  9/18/15  9/18/15 N           FWW6                               4.000   CS               78.80000000
+                                             6X10-3/4" WAX WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74310 Order totals ***                                                       78.800                 115.00
+       ***  9/18/15 Request date totals ***                                                       78.800                 115.00
+ Customer number  . :   82790500  PALISADES PACKAGING CO.
+ Request date . . . :    9/24/15 Order no. :   CO   74154 Sold to :   PALISADES PACKAGING CO.             PO:
+ Manufacturing date :    9/24/15 Priority  :              Ship to :   ROCKLAND BAKERY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/24/15  9/24/15  9/24/15 N           G25079 ROCKLAND                5,000.000   LB            4,800.00000000
+                                             22"W GHL 10-1/2"OD WHITE
+  9/24/15  9/24/15  9/24/15 N           G25080 ROCKLAND               10,000.000   LB            9,600.00000000
+                                             22"W GHL 10-1/2"OD WHEAT
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74154 Order totals ***                                                   14,400.000              24,450.00
+       ***  9/24/15 Request date totals ***                                                   14,400.000              24,450.00
+ Customer number  . :   83030700  R3 METRO SOUTH
+ Request date . . . :    9/25/15 Order no. :   CO   74387 Sold to :   R3 METRO SOUTH                      PO: 113916 NORMAL
+ Manufacturing date :    9/25/15 Priority  :              Ship to :   R3 METRO SOUTH
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   14
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83030700  R3 METRO SOUTH
+ Request date . . . :    9/25/15 Order no. :   CO   74387 Sold to :   R3 METRO SOUTH                      PO: 113916 NORMAL
+ Manufacturing date :    9/25/15 Priority  :              Ship to :   R3 METRO SOUTH
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/25/15  9/25/15  9/25/15 N           G24250 R3                         40.000   CS            1,800.00000000
+                                             12X12"AMALI" 35/42#DW 50#/CS
+  9/25/15  9/25/15  9/25/15 N           GARTWORK                           1.000   EA              350.00000000
+                                             MISC. ART CHARGES INC. ETCHING
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74387 Order totals ***                                                    2,150.000               3,469.60
+       ***  9/25/15 Request date totals ***                                                    2,150.000               3,469.60
+ Customer number  . :   82187500  LUCKY SUPPLY, INC.
+ Request date . . . :    9/28/15 Order no. :   CO   74260 Sold to :   LUCKY SUPPLY, INC.                  PO: A50727
+ Manufacturing date :    9/28/15 Priority  :              Ship to :   LUCKY SUPPLY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/28/15  9/28/15  9/28/15 N           G20815 LUCKY                     132.000   RL            1,374.12000000
+                                             15"MG"ESSEN"
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74260 Order totals ***                                                    1,374.120               1,705.44
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :    9/28/15 Order no. :   CO   74287 Sold to :   JETRO CASH & CARRY                  PO: 116-31437
+ Manufacturing date :    9/28/15 Priority  :              Ship to :   JETRO CASH & CARRY #16
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/28/15  9/28/15  9/28/15 N           G24299 RD                         10.000   CS              180.00000000
+                                             14X18"DW"QUALITE"
+  9/28/15  9/28/15  9/28/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+  9/28/15  9/28/15  9/28/15 N           FLOW10                            24.000   CS              543.84000000
+                                             10X10-3/4" LOGAN WRAP
+  9/28/15  9/28/15  9/28/15 N           FLOW15                            48.000   CS            1,555.20000000
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74287 Order totals ***                                                    2,498.760               3,380.72
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :    9/28/15 Order no. :   CO   74294 Sold to :   RD FOOD SERVICE                     PO: 171-51638
+ Manufacturing date :    9/28/15 Priority  :              Ship to :   RESTAURANT DEPOT #71
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   15
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :    9/28/15 Order no. :   CO   74294 Sold to :   RD FOOD SERVICE                     PO: 171-51638
+ Manufacturing date :    9/28/15 Priority  :              Ship to :   RESTAURANT DEPOT #71
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/28/15  9/28/15  9/28/15 N           F1215NUP                          30.000   CS              733.80000000
+                                             12X15" NUPARCH
+  9/28/15  9/28/15  9/28/15 N           G24284 RD                         33.000   RL              371.25000000
+                                             30" W TABLETOP   78787900221
+  9/28/15  9/28/15  9/28/15 N           G24282 RD                         39.000   RL              230.10000000
+                                             18"W MG  BLKFT    78787900219
+  9/28/15  9/28/15  9/28/15 N           G24281 RD                        117.000   RL              579.15000000
+                                             15" W MG BLKFT   78787900218
+  9/28/15  9/28/15  9/28/15 N           G24285 RD                         11.000   RL              148.50000000
+                                             36" W TABLETOP   78787900222
+  9/28/15  9/28/15  9/28/15 N           G24300 RD                         10.000   CS              182.50000000
+                                             15X20"DW"QUALITE" SUB
+  9/28/15  9/28/15  9/28/15 N           G24299 RD                         10.000   CS              180.00000000
+                                             14X18"DW"QUALITE"
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74294 Order totals ***                                                    2,425.300               4,499.71
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :    9/28/15 Order no. :   CO   74296 Sold to :   RD FOOD SERVICE                     PO: 194-19330
+ Manufacturing date :    9/28/15 Priority  :              Ship to :   RESTAURANT DEPOT #94
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/28/15  9/28/15  9/28/15 N           F1215DEL                          10.000   CS              308.50000000
+                                             12X15" DELWRAP
+  9/28/15  9/28/15  9/28/15 N           F1215NUP                          10.000   CS              244.60000000
+                                             12X15" NUPARCH
+  9/28/15  9/28/15  9/28/15 N           F15DEL                            11.000   RL              139.92000000
+                                             15" DELWRAP
+  9/28/15  9/28/15  9/28/15 N           G24283 RD                         11.000   RL              100.65000000
+                                             24" W TABLETOP  78787900220
+  9/28/15  9/28/15  9/28/15 N           G24282 RD                         22.000   RL              129.80000000
+                                             18"W MG  BLKFT    78787900219
+  9/28/15  9/28/15  9/28/15 N           G24281 RD                         39.000   RL              193.05000000
+                                             15" W MG BLKFT   78787900218
+  9/28/15  9/28/15  9/28/15 N           G24301 RD                         11.000   RL               82.50000000
+                                             15" PEACH BUTCHER
+  9/28/15  9/28/15  9/28/15 N           G24299 RD                         15.000   CS              270.00000000
+                                             14X18"DW"QUALITE"
+  9/28/15  9/28/15  9/28/15 N           G24302 RD                          9.000   CS              114.48000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74296 Order totals ***                                                    1,583.500               2,980.48
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   16
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :    9/28/15 Order no. :   CO   74297 Sold to :   RD FOOD SERVICE                     PO: 804-59188
+ Manufacturing date :    9/28/15 Priority  :              Ship to :   RESTAURANT DEPOT #804
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/28/15  9/28/15  9/28/15 N           F1215DEL                           6.000   CS              185.10000000
+                                             12X15" DELWRAP
+  9/28/15  9/28/15  9/28/15 N           G24299 RD                          5.000   CS               90.00000000
+                                             14X18"DW"QUALITE"
+  9/28/15  9/28/15  9/28/15 N           FWW6                               7.000   CS              137.90000000
+                                             6X10-3/4" WAX WRAP
+  9/28/15  9/28/15  9/28/15 N           FLOW6                             24.000   CS              339.84000000
+                                             6X10-3/4" LOGAN WRAP
+  9/28/15  9/28/15  9/28/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+  9/28/15  9/28/15  9/28/15 N           FLOW10                            24.000   CS              543.84000000
+                                             10X10-3/4" LOGAN WRAP
+  9/28/15  9/28/15  9/28/15 N           FLOW12                            24.000   CS              644.16000000
+                                             12X10-3/4" LOGAN WRAP
+  9/28/15  9/28/15  9/28/15 N           FLTW12                            10.000   CS              298.50000000
+                                             12X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74297 Order totals ***                                                    2,459.060               3,479.80
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :    9/28/15 Order no. :   CO   74299 Sold to :   RD FOOD SERVICE                     PO: 895-65370
+ Manufacturing date :    9/28/15 Priority  :              Ship to :   RESTAURANT DEPOT #895
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/28/15  9/28/15  9/28/15 N           F15MIC                            11.000   RL              126.83000000
+                                             15" MICA
+  9/28/15  9/28/15  9/28/15 N           F1215NUP                          20.000   CS              489.20000000
+                                             12X15" NUPARCH
+  9/28/15  9/28/15  9/28/15 N           G24299 RD                         50.000   CS              900.00000000
+                                             14X18"DW"QUALITE"
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74299 Order totals ***                                                    1,516.030               3,293.38
+ Customer number  . :   81916600  JOSHEN PAPER CO.
+ Request date . . . :    9/28/15 Order no. :   CO   74325 Sold to :   JOSHEN PAPER CO.                    PO: 110947
+ Manufacturing date :    9/28/15 Priority  :              Ship to :   JOSHEN PAPER OF NJ
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/28/15  9/28/15  9/28/15 N           G19629 JOSHEN                     10.000   CS              375.00000000
+                                             5.25X8.25"WW35/50#
+  9/28/15  9/28/15  9/28/15 N           G19630 JOSHEN                      4.000   CS              150.00000000
+                                             6.5X7.75"WW35/50# 50#/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74325 Order totals ***                                                      525.000               1,000.30
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   17
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81117400  EAST COAST PAPER CO.
+ Request date . . . :    9/28/15 Order no. :   CO   74335 Sold to :   EAST COAST PAPER CO.                PO: VBL STEVE
+ Manufacturing date :    9/28/15 Priority  :              Ship to :   AMNON KOSHER PIZZA
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/28/15  9/28/15  9/28/15 N           FLOW12                            48.000   CS            1,288.32000000
+                                             12X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74335 Order totals ***                                                    1,288.320               1,992.00
+ Customer number  . :   81780000  IMPERIAL BAG & PAPER CO
+ Request date . . . :    9/28/15 Order no. :   CO   74373 Sold to :   IMPERIAL BAG & PAPER CO             PO: 501935
+ Manufacturing date :    9/28/15 Priority  :              Ship to :   IMPERIAL BAG & PAPER CO
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/28/15  9/28/15  9/28/15 N           G19198IMPERIALB                   33.000   RL              420.75000000  *
+                                             15" WET WAX 1000 FT/RL
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74373 Order totals ***                                                      420.750                 776.49
+       ***  9/28/15 Request date totals ***                                                   14,090.840              23,108.32
+ Customer number  . :   82583500  NARDONE BROS. BAKING CO.
+ Request date . . . :    9/30/15 Order no. :   CO   74275 Sold to :   NARDONE BROS. BAKING CO.            PO: VBL VINNIE
+ Manufacturing date :    9/30/15 Priority  :              Ship to :   NARDONE BROS. BAKING CO.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/30/15  9/30/15  9/30/15 N           G22037 NARDONE                 2,150.000   M            27,950.00000000
+                                             13-5/8X18.5"QUILON NARDONE
+  9/30/15  9/30/15  9/30/15 N           G22036 NARDONE                   500.000   M            10,500.00000000
+                                             16-1/2X21" QUILON 2M/CS NARDON
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74275 Order totals ***                                                   38,450.000              43,922.00
+ Customer number  . :   80610700  BUNZL NEW JERSEY, INC.
+ Request date . . . :    9/30/15 Order no. :   CO   74314 Sold to :   BUNZL NEW JERSEY, INC.              PO: 427623 NORMAL
+ Manufacturing date :    9/30/15 Priority  :              Ship to :   BUNZL NEW JERSEY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/30/15  9/30/15  9/30/15 N           G12076 BUNZL NJ                   16.000   RL            2,720.00000000
+                                             25" W 25 SIL 6669FT/RL
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74314 Order totals ***                                                    2,720.000               3,536.00
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   18
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81730000  HUFF PAPER CO. (BOX 2250)
+ Request date . . . :    9/30/15 Order no. :   CO   74329 Sold to :   HUFF PAPER CO. (BOX 2250)           PO: 35451
+ Manufacturing date :    9/30/15 Priority  :              Ship to :   HUFF PAPER CO. (BOX 2250)
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/30/15  9/30/15  9/30/15 N           FWW10                             20.000   CS              521.80000000
+                                             10X10-3/4"WAX WRAP
+  9/30/15  9/30/15  9/30/15 N           FWW6                              30.000   CS              591.00000000
+                                             6X10-3/4" WAX WRAP
+  9/30/15  9/30/15  9/30/15 N           F1520SUB                          30.000   CS              700.50000000
+                                             15X20" SUBWRAP
+  9/30/15  9/30/15  9/30/15 N           F1616DW                           12.000   CS              291.36000000
+                                             16X16"DW  BLKFT 50#/CTN
+  9/30/15  9/30/15  9/30/15 N           F1818DW                           10.000   CS              243.50000000
+                                             18X18"DW BLKFT 50 LBS /CTN
+  9/30/15  9/30/15  9/30/15 N           F1820DW                           20.000   CS              489.40000000
+                                             18X20"DW  BLKFT 50#/CTN
+  9/30/15  9/30/15  9/30/15 N           F1824DW                           20.000   CS              490.40000000
+                                             18X24"DW BLKFT 50#/CTN
+  9/30/15  9/30/15  9/30/15 N           F912DEL                           36.000   CS            1,135.80000000
+                                             9X12" DELWRAP
+  9/30/15  9/30/15  9/30/15 N           FLOW8                             72.000   CS            1,318.32000000
+                                             8X10-3/4"LOGAN WRAP
+  9/30/15  9/30/15  9/30/15 N           FLTW8                             10.000   CS              204.90000000
+                                             8X10-3/4" LIGHTNING WRAP
+  9/30/15  9/30/15  9/30/15 N           F1217LOW                           2.000   CS               66.62000000
+                                             12X17"DW18/21#W/S BL KFT 4/1M
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74329 Order totals ***                                                    6,053.600              10,243.12
+ Customer number  . :   80280000  ARROW PAPER COMPANY
+ Request date . . . :    9/30/15 Order no. :   CO   74382 Sold to :   ARROW PAPER COMPANY                 PO: 019518
+ Manufacturing date :    9/30/15 Priority  :              Ship to :   ARROW PAPER COMPANY
+    ECO TO BE STAMPED KOSHER
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+  9/30/15  9/30/15  9/30/15 N           F25Q1MPLAIN                       50.000   CS            1,077.00000000  *
+                                             25# QUILON LINER PLAIN GRN 1M
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74382 Order totals ***                                                    1,077.000               1,290.00
+       ***  9/30/15 Request date totals ***                                                   48,300.600              58,991.12
+ Customer number  . :   80610700  BUNZL NEW JERSEY, INC.
+ Request date . . . :   10/01/15 Order no. :   CO   74265 Sold to :   BUNZL NEW JERSEY, INC.              PO: 427366 NORMAL
+ Manufacturing date :   10/01/15 Priority  :              Ship to :   BUNZL NEW JERSEY, INC.
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   19
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   80610700  BUNZL NEW JERSEY, INC.
+ Request date . . . :   10/01/15 Order no. :   CO   74265 Sold to :   BUNZL NEW JERSEY, INC.              PO: 427366 NORMAL
+ Manufacturing date :   10/01/15 Priority  :              Ship to :   BUNZL NEW JERSEY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/01/15 10/01/15 10/01/15 N           F1215DEL                          60.000   CS            1,851.00000000
+                                             12X15" DELWRAP
+ 10/01/15 10/01/15 10/01/15 N           F1215NUP                          20.000   CS              489.20000000
+                                             12X15" NUPARCH
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74265 Order totals ***                                                    2,340.200               4,616.00
+       *** 10/01/15 Request date totals ***                                                    2,340.200               4,616.00
+ Customer number  . :   80845500  CREMOSA FOOD CO. INC.
+ Request date . . . :   10/02/15 Order no. :   CO   74391 Sold to :   CREMOSA FOOD CO. INC.               PO: 81970
+ Manufacturing date :   10/02/15 Priority  :              Ship to :   CREMOSA FOOD CO. INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/02/15 10/02/15 10/02/15 N           F1418MGDW                         20.000   CS              472.40000000
+                                             14X18"MG DW 50 LBS/CS
+ 10/02/15 10/02/15 10/02/15 N           F1414DW                           10.000   CS              244.20000000
+                                             14X14 DRY WAX BLKFT  50#/CTN
+ 10/02/15 10/02/15 10/02/15 N           F1215DW                           80.000   CS            2,292.00000000
+                                             12X15" DW PIZZA SHEET
+ 10/02/15 10/02/15 10/02/15 N           F1212DW                            5.000   CS              142.70000000
+                                             12X12"DW35/40# 5/10#PERCS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74391 Order totals ***                                                    3,151.300               5,054.25
+       *** 10/02/15 Request date totals ***                                                    3,151.300               5,054.25
+ Customer number  . :   83813500  US FOODS-NEW YORK METRO
+ Request date . . . :   10/05/15 Order no. :   CO   74347 Sold to :   US FOODS-NEW YORK METRO             PO: 6809212I ORIGINAL
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   US FOODS-NEW YORK METRO
+    RECEIVING HRS ARE MON-FRI 6AM-2PM. TO SCHEDULE AN   APPT. EMAIL
+    JUSTO.MONTANEZ@USFOOD.COM NO LESS THAN 2 DAYS PRIOR TO DELVRY DATE.
+    3 high only on pallets
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215DW                          120.000   CS            3,438.00000000
+                                             12X15" DW PIZZA SHEET
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74347 Order totals ***                                                    3,438.000               5,097.60
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   20
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/05/15 Order no. :   CO   74353 Sold to :   JETRO CASH & CARRY                  PO: 110-24481
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   JETRO CASH & CARRY #10
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          10.000   CS              244.60000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           F15DEL                            33.000   RL              419.76000000
+                                             15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW6                             12.000   CS              169.92000000
+                                             6X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW10                            24.000   CS              543.84000000
+                                             10X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW12                            12.000   CS              322.08000000
+                                             12X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW15                            24.000   CS              777.60000000
+                                             15X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLTW15                            10.000   CS              366.60000000
+                                             15X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74353 Order totals ***                                                    2,844.400               4,387.60
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/05/15 Order no. :   CO   74354 Sold to :   JETRO CASH & CARRY                  PO: 116-31940
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   JETRO CASH & CARRY #16
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F15MP                             11.000   RL              163.02000000
+                                             15" MEAT PAK
+ 10/05/15 10/05/15 10/05/15 N           FLOW6                             12.000   CS              169.92000000
+                                             6X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW10                            24.000   CS              543.84000000
+                                             10X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW12                            24.000   CS              644.16000000
+                                             12X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW15                            24.000   CS              777.60000000
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74354 Order totals ***                                                    2,518.260               3,447.62
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/05/15 Order no. :   CO   74355 Sold to :   JETRO CASH & CARRY                  PO: 121-22407
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   JETRO CASH & CARRY #21
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          20.000   CS              489.20000000
+                                             12X15" NUPARCH
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   21
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/05/15 Order no. :   CO   74355 Sold to :   JETRO CASH & CARRY                  PO: 121-22407
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   JETRO CASH & CARRY #21
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           FWW6                              10.000   CS              197.00000000
+                                             6X10-3/4" WAX WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW8                             24.000   CS              439.44000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW10                            12.000   CS              271.92000000
+                                             10X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW15                            12.000   CS              388.80000000
+                                             15X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLTW15                            20.000   CS              733.20000000
+                                             15X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74355 Order totals ***                                                    2,519.560               3,656.68
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/05/15 Order no. :   CO   74356 Sold to :   JETRO CASH & CARRY                  PO: 807-28559
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #807
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          30.000   CS              733.80000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           F18MIC                            11.000   RL              151.91000000
+                                             18" MICA
+ 10/05/15 10/05/15 10/05/15 N           F15DEL                            11.000   RL              139.92000000
+                                             15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           G24282 RD                         39.000   RL              230.10000000
+                                             18"W MG  BLKFT    78787900219
+ 10/05/15 10/05/15 10/05/15 N           G24289 RD                         11.000   RL              107.25000000
+                                             30"NATKRAFT QUALITE
+ 10/05/15 10/05/15 10/05/15 N           G24301 RD                         11.000   RL               82.50000000
+                                             15" PEACH BUTCHER
+ 10/05/15 10/05/15 10/05/15 N           G24300 RD                          5.000   CS               91.25000000
+                                             15X20"DW"QUALITE" SUB
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74356 Order totals ***                                                    1,536.730               3,149.60
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/05/15 Order no. :   CO   74358 Sold to :   JETRO CASH & CARRY                  PO: 814-25157
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   JETRO CASH & CARRY #814
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          10.000   CS              244.60000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           G24283 RD                         33.000   RL              301.95000000
+                                             24" W TABLETOP  78787900220
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   22
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/05/15 Order no. :   CO   74358 Sold to :   JETRO CASH & CARRY                  PO: 814-25157
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   JETRO CASH & CARRY #814
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           G24282 RD                         13.000   RL               76.70000000
+                                             18"W MG  BLKFT    78787900219
+ 10/05/15 10/05/15 10/05/15 N           G24299 RD                         80.000   CS            1,440.00000000
+                                             14X18"DW"QUALITE"
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74358 Order totals ***                                                    2,063.250               4,264.17
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/05/15 Order no. :   CO   74360 Sold to :   JETRO CASH & CARRY                  PO: 818-14242
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   JETRO CASH & CARRY #818
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          40.000   CS              978.40000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           FWW6                              10.000   CS              197.00000000
+                                             6X10-3/4" WAX WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW6                             12.000   CS              169.92000000
+                                             6X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW12                            12.000   CS              322.08000000
+                                             12X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLTW12                            10.000   CS              298.50000000
+                                             12X10-3/4" LIGHTNING WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW15                            48.000   CS            1,555.20000000
+                                             15X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLTW15                            10.000   CS              366.60000000
+                                             15X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74360 Order totals ***                                                    4,107.420               6,018.22
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/05/15 Order no. :   CO   74361 Sold to :   JETRO CASH & CARRY                  PO: 832-18701
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #832
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F15MIC                            22.000   RL              253.66000000
+                                             15" MICA
+ 10/05/15 10/05/15 10/05/15 N           F912DEL                            3.000   CS               94.65000000
+                                             9X12" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          14.000   CS              342.44000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           F15DEL                            11.000   RL              139.92000000
+                                             15" DELWRAP
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   23
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/05/15 Order no. :   CO   74361 Sold to :   JETRO CASH & CARRY                  PO: 832-18701
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #832
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           G24299 RD                         30.000   CS              540.00000000
+                                             14X18"DW"QUALITE"
+ 10/05/15 10/05/15 10/05/15 N           G24302 RD                         18.000   CS              228.96000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74361 Order totals ***                                                    1,599.630               3,374.08
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/05/15 Order no. :   CO   74362 Sold to :   RD FOOD SERVICE                     PO: 144-36067
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #44
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          50.000   CS            1,223.00000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           G24299 RD                          5.000   CS               90.00000000
+                                             14X18"DW"QUALITE"
+ 10/05/15 10/05/15 10/05/15 N           G24302 RD                         18.000   CS              228.96000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74362 Order totals ***                                                    1,541.960               2,931.60
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/05/15 Order no. :   CO   74363 Sold to :   RD FOOD SERVICE                     PO: 167-68409
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RD FOOD SERVICE # 67
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215DEL                          10.000   CS              308.50000000
+                                             12X15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           F912DEL                           10.000   CS              315.50000000
+                                             9X12" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          40.000   CS              978.40000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           G24299 RD                          5.000   CS               90.00000000
+                                             14X18"DW"QUALITE"
+ 10/05/15 10/05/15 10/05/15 N           G24302 RD                          9.000   CS              114.48000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74363 Order totals ***                                                    1,806.880               3,372.55
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   24
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/05/15 Order no. :   CO   74365 Sold to :   RD FOOD SERVICE                     PO: 194-19823
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #94
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215DEL                          10.000   CS              308.50000000
+                                             12X15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           F15DEL                            22.000   RL              279.84000000
+                                             15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           G24284 RD                         33.000   RL              371.25000000
+                                             30" W TABLETOP   78787900221
+ 10/05/15 10/05/15 10/05/15 N           G24290 RD                         11.000   RL              128.15000000
+                                             36"NATKFT QUALITE
+ 10/05/15 10/05/15 10/05/15 N           G24289 RD                         11.000   RL              107.25000000
+                                             30"NATKRAFT QUALITE
+ 10/05/15 10/05/15 10/05/15 N           G24301 RD                         11.000   RL               82.50000000
+                                             15" PEACH BUTCHER
+ 10/05/15 10/05/15 10/05/15 N           G24292 RD                          5.000   CS              155.50000000
+                                             36X36" TABLETOP 350 SHTS
+ 10/05/15 10/05/15 10/05/15 N           G24302 RD                         27.000   CS              343.44000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74365 Order totals ***                                                    1,776.430               3,009.42
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/05/15 Order no. :   CO   74366 Sold to :   RD FOOD SERVICE                     PO: 803-57559
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #803
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215DEL                          10.000   CS              308.50000000
+                                             12X15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          50.000   CS            1,223.00000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           F15DEL                            11.000   RL              139.92000000
+                                             15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           G24283 RD                         11.000   RL              100.65000000
+                                             24" W TABLETOP  78787900220
+ 10/05/15 10/05/15 10/05/15 N           G24281 RD                         78.000   RL              386.10000000
+                                             15" W MG BLKFT   78787900218
+ 10/05/15 10/05/15 10/05/15 N           G24299 RD                          5.000   CS               90.00000000
+                                             14X18"DW"QUALITE"
+ 10/05/15 10/05/15 10/05/15 N           G24302 RD                         27.000   CS              343.44000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74366 Order totals ***                                                    2,591.610               4,792.42
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/05/15 Order no. :   CO   74367 Sold to :   RD FOOD SERVICE                     PO: 804-59626
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #804
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   25
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/05/15 Order no. :   CO   74367 Sold to :   RD FOOD SERVICE                     PO: 804-59626
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #804
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          10.000   CS              244.60000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           F15DEL                            11.000   RL              139.92000000
+                                             15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           G24299 RD                          5.000   CS               90.00000000
+                                             14X18"DW"QUALITE"
+ 10/05/15 10/05/15 10/05/15 N           FLOW12                            12.000   CS              322.08000000
+                                             12X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW15                            48.000   CS            1,555.20000000
+                                             15X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLTW15                            10.000   CS              366.60000000
+                                             15X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74367 Order totals ***                                                    2,718.400               3,912.20
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/05/15 Order no. :   CO   74368 Sold to :   RD FOOD SERVICE                     PO: 806-51547
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #806
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F912DEL                            6.000   CS              189.30000000
+                                             9X12" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          30.000   CS              733.80000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           F15DEL                            11.000   RL              139.92000000
+                                             15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           G24299 RD                         20.000   CS              360.00000000
+                                             14X18"DW"QUALITE"
+ 10/05/15 10/05/15 10/05/15 N           G24302 RD                         18.000   CS              228.96000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74368 Order totals ***                                                    1,651.980               3,213.40
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/05/15 Order no. :   CO   74369 Sold to :   RD FOOD SERVICE                     PO: 811-42650
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #811
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1215DEL                           6.000   CS              185.10000000
+                                             12X15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           G24287 RD                         22.000   RL              184.80000000
+                                             18"W WHITE BUTCHER 78787900223
+ 10/05/15 10/05/15 10/05/15 N           G24284 RD                         33.000   RL              371.25000000
+                                             30" W TABLETOP   78787900221
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   26
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/05/15 Order no. :   CO   74369 Sold to :   RD FOOD SERVICE                     PO: 811-42650
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #811
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           G24300 RD                         60.000   CS            1,095.00000000
+                                             15X20"DW"QUALITE" SUB
+ 10/05/15 10/05/15 10/05/15 N           G24299 RD                         40.000   CS              720.00000000
+                                             14X18"DW"QUALITE"
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74369 Order totals ***                                                    2,556.150               5,132.44
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/05/15 Order no. :   CO   74370 Sold to :   RD FOOD SERVICE                     PO: 852-21321
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   RESTAURANT DEPOT #852
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F912DEL                            2.000   CS               63.10000000
+                                             9X12" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          10.000   CS              244.60000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           G24299 RD                         10.000   CS              180.00000000
+                                             14X18"DW"QUALITE"
+ 10/05/15 10/05/15 10/05/15 N           G24302 RD                          9.000   CS              114.48000000
+                                             12X15"DW  20LB/CS
+ 10/05/15 10/05/15 10/05/15 N           FWW6                               6.000   CS              118.20000000
+                                             6X10-3/4" WAX WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW6                             12.000   CS              169.92000000
+                                             6X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW10                            24.000   CS              543.84000000
+                                             10X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW12                            12.000   CS              322.08000000
+                                             12X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLTW12                            10.000   CS              298.50000000
+                                             12X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74370 Order totals ***                                                    2,274.440               3,399.93
+ Customer number  . :   82187500  LUCKY SUPPLY, INC.
+ Request date . . . :   10/05/15 Order no. :   CO   74393 Sold to :   LUCKY SUPPLY, INC.                  PO: A50729
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   LUCKY SUPPLY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           FLOW15                           480.000   CS           15,552.00000000
+                                             15X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW8                             72.000   CS            1,318.32000000
+                                             8X10-3/4"LOGAN WRAP
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   27
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   82187500  LUCKY SUPPLY, INC.
+ Request date . . . :   10/05/15 Order no. :   CO   74393 Sold to :   LUCKY SUPPLY, INC.                  PO: A50729
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   LUCKY SUPPLY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F1418SUB                          30.000   CS              696.90000000
+                                             14X18" SUBWRAP
+ 10/05/15 10/05/15 10/05/15 N           F1215NUP                          80.000   CS            1,956.80000000
+                                             12X15" NUPARCH
+ 10/05/15 10/05/15 10/05/15 N           F1215DEL                          40.000   CS            1,234.00000000
+                                             12X15" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           F912DEL                           36.000   CS            1,135.80000000
+                                             9X12" DELWRAP
+ 10/05/15 10/05/15 10/05/15 N           G20810 LUCKY                     396.000   RL            2,079.00000000
+                                             15"MG
+ 10/05/15 10/05/15 10/05/15 N           F15PB7                            66.000   RL              494.34000000
+                                             15" W PEACH BUTCHER
+ 10/05/15 10/05/15 10/05/15 N           F15DEL                            66.000   RL              839.52000000
+                                             15" DELWRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74393 Order totals ***                                                   25,306.680              39,540.80
+ Customer number  . :   82187500  LUCKY SUPPLY, INC.
+ Request date . . . :   10/05/15 Order no. :   CO   74394 Sold to :   LUCKY SUPPLY, INC.                  PO: A50729a
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   LUCKY SUPPLY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           FLOW15                            24.000   CS              777.60000000
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74394 Order totals ***                                                      777.600                    .00
+ Customer number  . :   81431500  GENOA WHOLESALE FOODS
+ Request date . . . :   10/05/15 Order no. :   CO   74398 Sold to :   GENOA WHOLESALE FOODS               PO:
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   GENOA WHOLESALE FOODS
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F25Q99                             5.000   CS              158.25000000
+                                             9X9"25#QUILON 8/1M PER CS
+ 10/05/15 10/05/15 10/05/15 N           F25Q1010                           5.000   CS              194.50000000
+                                             10X10"25#QUILON 6/1M PER CS
+ 10/05/15 10/05/15 10/05/15 N           F25Q1212                          10.000   CS              555.90000000
+                                             12X12"25#QUILON 6/1M PER CS
+ 10/05/15 10/05/15 10/05/15 N           F25Q1414                          10.000   CS              503.90000000
+                                             14X14"25#QUILON 4/1M PER CS
+ 10/05/15 10/05/15 10/05/15 N           F25Q1616                          25.000   CS            1,238.50000000
+                                             16X16"25#QUILON 3/1M PER CS
+ 10/05/15 10/05/15 10/05/15 N           F25Q1818                           5.000   CS              312.60000000
+                                             18X18"25#QUILON 2/1M PER CS
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   28
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81431500  GENOA WHOLESALE FOODS
+ Request date . . . :   10/05/15 Order no. :   CO   74398 Sold to :   GENOA WHOLESALE FOODS               PO:
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   GENOA WHOLESALE FOODS
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           F25Q1216                           5.000   CS              248.20000000
+                                             12X16"25#QUILON 4/1M PER CS
+ 10/05/15 10/05/15 10/05/15 N           FLOW12                            10.000   CS              268.40000000
+                                             12X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW15                             5.000   CS              162.00000000
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74398 Order totals ***                                                    3,642.250               4,979.00
+ Customer number  . :   82072200  LANCA SALES, INC.
+ Request date . . . :   10/05/15 Order no. :   CO   74400 Sold to :   LANCA SALES, INC.                   PO: 174559
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   LANCA SALES, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           FLOW15                            24.000   CS              777.60000000
+                                             15X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW6                             33.000   CS              467.28000000
+                                             6X10-3/4" LOGAN WRAP
+ 10/05/15 10/05/15 10/05/15 N           FLOW12                            24.000   CS              644.16000000
+                                             12X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74400 Order totals ***                                                    2,108.760               3,032.01
+ Customer number  . :   82072200  LANCA SALES, INC.
+ Request date . . . :   10/05/15 Order no. :   CO   74401 Sold to :   LANCA SALES, INC.                   PO: 174583
+ Manufacturing date :   10/05/15 Priority  :              Ship to :   LANCA SALES, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/05/15 10/05/15 10/05/15 N           FLOW6                             10.000   CS              141.60000000
+                                             6X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74401 Order totals ***                                                      141.600                 215.30
+       *** 10/05/15 Request date totals ***                                                   69,521.990             110,926.64
+ Customer number  . :   80619700  CALLICO DISTRIBUTORS, INC.
+ Request date . . . :   10/07/15 Order no. :   CO   74376 Sold to :   CALLICO DISTRIBUTORS, INC.          PO: S27366
+ Manufacturing date :   10/07/15 Priority  :              Ship to :   CALLICO DISTRIBUTORS, INC.
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   29
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   80619700  CALLICO DISTRIBUTORS, INC.
+ Request date . . . :   10/07/15 Order no. :   CO   74376 Sold to :   CALLICO DISTRIBUTORS, INC.          PO: S27366
+ Manufacturing date :   10/07/15 Priority  :              Ship to :   CALLICO DISTRIBUTORS, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/07/15 10/07/15 10/07/15 N           F1520MGDW                         90.000   CS            2,186.10000000
+                                             15X20" MG DW 50LBS/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74376 Order totals ***                                                    2,186.100               3,963.60
+       *** 10/07/15 Request date totals ***                                                    2,186.100               3,963.60
+ Customer number  . :   80180000  ALPINE PAPER BOX CO
+ Request date . . . :   10/08/15 Order no. :   CO   74381 Sold to :   ALPINE PAPER BOX CO                 PO: VBL ANTHONY
+ Manufacturing date :   10/08/15 Priority  :              Ship to :   ALPINE PAPER BOX CO
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/08/15 10/08/15 10/08/15 N           G10369 ALPINE                    125.000   M               781.25000000
+                                             11X7-7/8"QUILON 1M
+ 10/08/15 10/08/15 10/08/15 N           G10376 ALPINE                    125.000   M               375.00000000
+                                             8-1/2X5-7/16"25Q 1M/PG
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74381 Order totals ***                                                    1,156.250               1,745.00
+ Customer number  . :   80682800  CEVA TRADE SERVICES
+ Request date . . . :   10/08/15 Order no. :   CO   74389 Sold to :   CEVA TRADE SERVICES                 PO: OP 15047194
+ Manufacturing date :   10/08/15 Priority  :              Ship to :   ATTN: TARGET CSO
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/08/15 10/08/15 10/08/15 N           F25Q1MPLAIN                       92.000   CS            1,981.68000000
+                                             25# QUILON LINER PLAIN GRN 1M
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74389 Order totals ***                                                    1,981.680               2,306.44
+       *** 10/08/15 Request date totals ***                                                    3,137.930               4,051.44
+ Customer number  . :   80842400  B.H. CRAINE CO., INC.
+ Request date . . . :   10/09/15 Order no. :   CO   74311 Sold to :   B.H. CRAINE CO., INC.               PO: 103772A
+ Manufacturing date :   10/09/15 Priority  :              Ship to :   LEGENDARY BAKING/DC CENTER
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/09/15 10/09/15 10/09/15 N           G13649 CRAINE                     15.000   RL              373.80000000
+                                             7"W30/40 WW 7M'/RL
+ 10/09/15 10/09/15 10/09/15 N           G13650 CRAINE                     10.000   RL              284.40000000
+                                             8"W 30/40# WW 7M'/RL
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   30
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   80842400  B.H. CRAINE CO., INC.
+ Request date . . . :   10/09/15 Order no. :   CO   74311 Sold to :   B.H. CRAINE CO., INC.               PO: 103772A
+ Manufacturing date :   10/09/15 Priority  :              Ship to :   LEGENDARY BAKING/DC CENTER
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/09/15 10/09/15 10/09/15 N           G13651 CRAINE                     10.000   RL              354.80000000
+                                             10"W 30/40# 7M'/RL
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74311 Order totals ***                                                    1,013.000               1,573.75
+       *** 10/09/15 Request date totals ***                                                    1,013.000               1,573.75
+ Customer number  . :   83767000  TRI-STATE PAPER COMPANY
+ Request date . . . :   10/10/15 Order no. :   CO   74319 Sold to :   TRI-STATE PAPER COMPANY             PO: 27579
+ Manufacturing date :   10/10/15 Priority  :              Ship to :   TRI-STATE PAPER COMPANY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/10/15 10/10/15 10/10/15 N           G27362 TRIS                       50.000   CS            1,933.00000000
+                                             18X18""STKEMUP"40#TWB 40#/CS
+ 10/10/15 10/10/15 10/10/15 N           GARTWORK                           1.000   EA              350.00000000
+                                             MISC. ART CHARGES INC. ETCHING
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74319 Order totals ***                                                    2,283.000               4,175.00
+ Customer number  . :   82497600  MONTEFORTE ITALIAN BAKERY
+ Request date . . . :   10/10/15 Order no. :   CO   74330 Sold to :   MONTEFORTE ITALIAN BAKERY           PO:
+ Manufacturing date :   10/10/15 Priority  :              Ship to :   MONTEFORTE ITALIAN BAKERY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/10/15 10/10/15 10/10/15 N           G21675 MONTE                   4,000.000   LB            3,840.00000000
+                                             22"WHITE GHL BAKERS BEST 25/38
+ 10/10/15 10/10/15 10/10/15 N           G21676 MONTE                   2,000.000   LB            1,920.00000000
+                                             22"WHEAT GHL BAKERS BEST 25/38
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74330 Order totals ***                                                    5,760.000               9,360.00
+       *** 10/10/15 Request date totals ***                                                    8,043.000              13,535.00
+ Customer number  . :   80610700  BUNZL NEW JERSEY, INC.
+ Request date . . . :   10/12/15 Order no. :   CO   74277 Sold to :   BUNZL NEW JERSEY, INC.              PO: 427505 NORMAL
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   BUNZL NEW JERSEY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                          60.000   CS            1,851.00000000
+                                             12X15" DELWRAP
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   31
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   80610700  BUNZL NEW JERSEY, INC.
+ Request date . . . :   10/12/15 Order no. :   CO   74277 Sold to :   BUNZL NEW JERSEY, INC.              PO: 427505 NORMAL
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   BUNZL NEW JERSEY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           G12071 BUNZL NY                  160.000   CS           12,000.00000000
+                                             15X10-3/4"DWW/S LENNY'S 12/500
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74277 Order totals ***                                                   13,851.000              18,342.40
+ Customer number  . :   82072200  LANCA SALES, INC.
+ Request date . . . :   10/12/15 Order no. :   CO   74395 Sold to :   LANCA SALES, INC.                   PO: 174473
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   LANCA SALES, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           G20122 LANCA                     540.000   CS           14,245.20000000
+                                             18X26"QUILON 1000SHEETS/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74395 Order totals ***                                                   14,245.200              16,875.00
+ Customer number  . :   80682800  CEVA TRADE SERVICES
+ Request date . . . :   10/12/15 Order no. :   CO   74399 Sold to :   CEVA TRADE SERVICES                 PO: OP 15047215
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   ATTN: TARGET CSO
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F25Q1MPLAIN                       92.000   CS            1,981.68000000
+                                             25# QUILON LINER PLAIN GRN 1M
+ 10/12/15 10/12/15 10/12/15 N           FLOW8                             72.000   CS            1,318.32000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           G27330 TGT                       180.000   CS            1,620.00000000
+                                             8.5X14"QUILON 1M R0108
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74399 Order totals ***                                                    4,920.000               5,404.24
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74404 Sold to :   JETRO CASH & CARRY                  PO: 110-25080
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   JETRO CASH & CARRY #10
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                          10.000   CS              308.50000000
+                                             12X15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          30.000   CS              733.80000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           F15MP                             33.000   RL              489.06000000
+                                             15" MEAT PAK
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   32
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74404 Sold to :   JETRO CASH & CARRY                  PO: 110-25080
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   JETRO CASH & CARRY #10
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           FWW6                              10.000   CS              197.00000000
+                                             6X10-3/4" WAX WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW6                             12.000   CS              169.92000000
+                                             6X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW15                            36.000   CS            1,166.40000000
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74404 Order totals ***                                                    3,284.400               5,215.92
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74405 Sold to :   JETRO CASH & CARRY                  PO: 111-36978
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   JETRO CASH & CARRY #11
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                           3.000   CS               92.55000000
+                                             12X15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           FWW6                              10.000   CS              197.00000000
+                                             6X10-3/4" WAX WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW8                             24.000   CS              439.44000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW12                            12.000   CS              322.08000000
+                                             12X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW15                            48.000   CS            1,555.20000000
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74405 Order totals ***                                                    2,606.270               3,411.68
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74406 Sold to :   JETRO CASH & CARRY                  PO: 112-58701
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   JETRO CASH & CARRY #12
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                           6.000   CS              185.10000000
+                                             12X15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          10.000   CS              244.60000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           F15MP                             11.000   RL              163.02000000
+                                             15" MEAT PAK
+ 10/12/15 10/12/15 10/12/15 N           G24299 RD                         10.000   CS              180.00000000
+                                             14X18"DW"QUALITE"
+ 10/12/15 10/12/15 10/12/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   33
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74406 Sold to :   JETRO CASH & CARRY                  PO: 112-58701
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   JETRO CASH & CARRY #12
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           FLOW15                            24.000   CS              777.60000000
+                                             15X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLTW15                            10.000   CS              366.60000000
+                                             15X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74406 Order totals ***                                                    2,136.640               3,284.54
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74407 Sold to :   JETRO CASH & CARRY                  PO: 121-22913
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   JETRO CASH & CARRY #21
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          20.000   CS              489.20000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           FWW6                              10.000   CS              197.00000000
+                                             6X10-3/4" WAX WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW6                             12.000   CS              169.92000000
+                                             6X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW12                            12.000   CS              322.08000000
+                                             12X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW15                            36.000   CS            1,166.40000000
+                                             15X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLTW15                            10.000   CS              366.60000000
+                                             15X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74407 Order totals ***                                                    2,930.920               4,155.94
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74408 Sold to :   JETRO CASH & CARRY                  PO: 808-60650
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #808
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                           2.000   CS               61.70000000
+                                             12X15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          10.000   CS              244.60000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           F15DEL                            11.000   RL              139.92000000
+                                             15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           G24299 RD                         10.000   CS              180.00000000
+                                             14X18"DW"QUALITE"
+ 10/12/15 10/12/15 10/12/15 N           G24302 RD                         18.000   CS              228.96000000
+                                             12X15"DW  20LB/CS
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   34
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74408 Sold to :   JETRO CASH & CARRY                  PO: 808-60650
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #808
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           FWW6                              15.000   CS              295.50000000
+                                             6X10-3/4" WAX WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW12                            12.000   CS              322.08000000
+                                             12X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLTW12                            10.000   CS              298.50000000
+                                             12X10-3/4" LIGHTNING WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW15                            12.000   CS              388.80000000
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74408 Order totals ***                                                    2,160.060               3,357.60
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74409 Sold to :   JETRO CASH & CARRY                  PO: 81814979
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   JETRO CASH & CARRY #818
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          20.000   CS              489.20000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                          10.000   CS              308.50000000
+                                             12X15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           G24302 RD                          9.000   CS              114.48000000
+                                             12X15"DW  20LB/CS
+ 10/12/15 10/12/15 10/12/15 N           FWW6                              20.000   CS              394.00000000
+                                             6X10-3/4" WAX WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW10                            12.000   CS              271.92000000
+                                             10X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW15                            48.000   CS            1,555.20000000
+                                             15X10-3/4" LOGAN WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74409 Order totals ***                                                    3,353.020               4,806.67
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74410 Sold to :   RD FOOD SERVICE                     PO: 125-37163
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEP./JETRO #25
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           FLOW6                             12.000   CS              169.92000000
+                                             6X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW10                            24.000   CS              543.84000000
+                                             10X10-3/4" LOGAN WRAP
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   35
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74410 Sold to :   RD FOOD SERVICE                     PO: 125-37163
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEP./JETRO #25
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           FLOW12                            24.000   CS              644.16000000
+                                             12X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW15                            24.000   CS              777.60000000
+                                             15X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLTW15                            10.000   CS              366.60000000
+                                             15X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74410 Order totals ***                                                    2,721.840               3,613.26
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74411 Sold to :   RD FOOD SERVICE                     PO: 144-36449
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #44
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                          10.000   CS              308.50000000
+                                             12X15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          50.000   CS            1,223.00000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           G24299 RD                          5.000   CS               90.00000000
+                                             14X18"DW"QUALITE"
+ 10/12/15 10/12/15 10/12/15 N           G24302 RD                          9.000   CS              114.48000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74411 Order totals ***                                                    1,735.980               3,320.05
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74412 Sold to :   RD FOOD SERVICE                     PO: 160-40605
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RD FOOD SERVICE #60
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F912DEL                            6.000   CS              189.30000000
+                                             9X12" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           G24284 RD                         30.000   RL              337.50000000
+                                             30" W TABLETOP   78787900221
+ 10/12/15 10/12/15 10/12/15 N           G24283 RD                         30.000   RL              274.50000000
+                                             24" W TABLETOP  78787900220
+ 10/12/15 10/12/15 10/12/15 N           G24280 RD                         13.000   RL               53.30000000
+                                             12" MG BLKFT      78787900217
+ 10/12/15 10/12/15 10/12/15 N           G24290 RD                         10.000   RL              116.50000000
+                                             36"NATKFT QUALITE
+ 10/12/15 10/12/15 10/12/15 N           G24300 RD                         50.000   CS              912.50000000
+                                             15X20"DW"QUALITE" SUB
+ 10/12/15 10/12/15 10/12/15 N           G24299 RD                         50.000   CS              900.00000000
+                                             14X18"DW"QUALITE"
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74412 Order totals ***                                                    2,783.600               5,547.37
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   36
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74413 Sold to :   RD FOOD SERVICE                     PO: 163-52649
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #63
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F15MIC                            11.000   RL              126.83000000
+                                             15" MICA
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          20.000   CS              489.20000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           F15DEL                            33.000   RL              419.76000000
+                                             15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           F15MP                             33.000   RL              489.06000000
+                                             15" MEAT PAK
+ 10/12/15 10/12/15 10/12/15 N           G24302 RD                         27.000   CS              343.44000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74413 Order totals ***                                                    1,868.290               3,770.85
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74414 Sold to :   RD FOOD SERVICE                     PO: 167-68939
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RD FOOD SERVICE # 67
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                           6.000   CS              185.10000000
+                                             12X15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          40.000   CS              978.40000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           G24299 RD                         15.000   CS              270.00000000
+                                             14X18"DW"QUALITE"
+ 10/12/15 10/12/15 10/12/15 N           G24302 RD                          9.000   CS              114.48000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74414 Order totals ***                                                    1,547.980               3,010.87
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74415 Sold to :   RD FOOD SERVICE                     PO: 171-52534
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #71
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                          12.000   CS              370.20000000
+                                             12X15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          10.000   CS              244.60000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           G24287 RD                         33.000   RL              277.20000000
+                                             18"W WHITE BUTCHER 78787900223
+ 10/12/15 10/12/15 10/12/15 N           G24282 RD                         39.000   RL              230.10000000
+                                             18"W MG  BLKFT    78787900219
+ 10/12/15 10/12/15 10/12/15 N           G24281 RD                        156.000   RL              772.20000000
+                                             15" W MG BLKFT   78787900218
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   37
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74415 Sold to :   RD FOOD SERVICE                     PO: 171-52534
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #71
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           G24285 RD                         11.000   RL              148.50000000
+                                             36" W TABLETOP   78787900222
+ 10/12/15 10/12/15 10/12/15 N           G24299 RD                          5.000   CS               90.00000000
+                                             14X18"DW"QUALITE"
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74415 Order totals ***                                                    2,132.800               3,700.88
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74416 Sold to :   RD FOOD SERVICE                     PO: 173-50835
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #73
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          10.000   CS              244.60000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           G24284 RD                         33.000   RL              371.25000000
+                                             30" W TABLETOP   78787900221
+ 10/12/15 10/12/15 10/12/15 N           G24283 RD                         33.000   RL              301.95000000
+                                             24" W TABLETOP  78787900220
+ 10/12/15 10/12/15 10/12/15 N           G24282 RD                         13.000   RL               76.70000000
+                                             18"W MG  BLKFT    78787900219
+ 10/12/15 10/12/15 10/12/15 N           G24281 RD                         39.000   RL              193.05000000
+                                             15" W MG BLKFT   78787900218
+ 10/12/15 10/12/15 10/12/15 N           G24280 RD                         13.000   RL               53.30000000
+                                             12" MG BLKFT      78787900217
+ 10/12/15 10/12/15 10/12/15 N           G24301 RD                         33.000   RL              247.50000000
+                                             15" PEACH BUTCHER
+ 10/12/15 10/12/15 10/12/15 N           G24292 RD                          5.000   CS              155.50000000
+                                             36X36" TABLETOP 350 SHTS
+ 10/12/15 10/12/15 10/12/15 N           G24302 RD                         18.000   CS              228.96000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74416 Order totals ***                                                    1,872.810               3,083.62
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74417 Sold to :   RD FOOD SERVICE                     PO: 801-27796
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #801
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          16.000   CS              391.36000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           F18MIC                            11.000   RL              151.91000000
+                                             18" MICA
+ 10/12/15 10/12/15 10/12/15 N           G24283 RD                         33.000   RL              301.95000000
+                                             24" W TABLETOP  78787900220
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   38
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74417 Sold to :   RD FOOD SERVICE                     PO: 801-27796
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #801
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           G24282 RD                         22.000   RL              129.80000000
+                                             18"W MG  BLKFT    78787900219
+ 10/12/15 10/12/15 10/12/15 N           G24281 RD                         78.000   RL              386.10000000
+                                             15" W MG BLKFT   78787900218
+ 10/12/15 10/12/15 10/12/15 N           G24292 RD                          5.000   CS              155.50000000
+                                             36X36" TABLETOP 350 SHTS
+ 10/12/15 10/12/15 10/12/15 N           G24302 RD                          9.000   CS              114.48000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74417 Order totals ***                                                    1,631.100               2,927.23
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74418 Sold to :   RD FOOD SERVICE                     PO: 803-58110
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #803
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F912DEL                            6.000   CS              189.30000000
+                                             9X12" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          60.000   CS            1,467.60000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           G24283 RD                         11.000   RL              100.65000000
+                                             24" W TABLETOP  78787900220
+ 10/12/15 10/12/15 10/12/15 N           G24281 RD                         78.000   RL              386.10000000
+                                             15" W MG BLKFT   78787900218
+ 10/12/15 10/12/15 10/12/15 N           G24285 RD                         11.000   RL              148.50000000
+                                             36" W TABLETOP   78787900222
+ 10/12/15 10/12/15 10/12/15 N           G24301 RD                         25.000   RL              187.50000000
+                                             15" PEACH BUTCHER
+ 10/12/15 10/12/15 10/12/15 N           G24302 RD                          9.000   CS              114.48000000
+                                             12X15"DW  20LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74418 Order totals ***                                                    2,594.130               4,805.15
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74419 Sold to :   RD FOOD SERVICE                     PO: 804-60096
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #804
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           FLOW8                             12.000   CS              219.72000000
+                                             8X10-3/4"LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW10                            36.000   CS              815.76000000
+                                             10X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLOW12                            24.000   CS              644.16000000
+                                             12X10-3/4" LOGAN WRAP
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   39
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74419 Sold to :   RD FOOD SERVICE                     PO: 804-60096
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #804
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           FLOW15                            24.000   CS              777.60000000
+                                             15X10-3/4" LOGAN WRAP
+ 10/12/15 10/12/15 10/12/15 N           FLTW15                            10.000   CS              366.60000000
+                                             15X10-3/4" LIGHTNING WRAP
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74419 Order totals ***                                                    2,823.840               3,754.26
+ Customer number  . :   83032500  RD FOOD SERVICE
+ Request date . . . :   10/12/15 Order no. :   CO   74420 Sold to :   RD FOOD SERVICE                     PO: 834-27661
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #834
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                           2.000   CS               61.70000000
+                                             12X15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          10.000   CS              244.60000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           G24287 RD                         33.000   RL              277.20000000
+                                             18"W WHITE BUTCHER 78787900223
+ 10/12/15 10/12/15 10/12/15 N           G24284 RD                         30.000   RL              337.50000000
+                                             30" W TABLETOP   78787900221
+ 10/12/15 10/12/15 10/12/15 N           G24300 RD                         60.000   CS            1,095.00000000
+                                             15X20"DW"QUALITE" SUB
+ 10/12/15 10/12/15 10/12/15 N           G24299 RD                         30.000   CS              540.00000000
+                                             14X18"DW"QUALITE"
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74420 Order totals ***                                                    2,556.000               5,087.19
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74421 Sold to :   JETRO CASH & CARRY                  PO: 882-19780
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #882
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           F1215DEL                           2.000   CS               61.70000000
+                                             12X15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           F1215NUP                          12.000   CS              293.52000000
+                                             12X15" NUPARCH
+ 10/12/15 10/12/15 10/12/15 N           F15DEL                            11.000   RL              139.92000000
+                                             15" DELWRAP
+ 10/12/15 10/12/15 10/12/15 N           G24287 RD                         78.000   RL              655.20000000
+                                             18"W WHITE BUTCHER 78787900223
+ 10/12/15 10/12/15 10/12/15 N           G24284 RD                         30.000   RL              337.50000000
+                                             30" W TABLETOP   78787900221
+ 10/12/15 10/12/15 10/12/15 N           G24283 RD                         11.000   RL              100.65000000
+                                             24" W TABLETOP  78787900220
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   40
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81885200  JETRO CASH & CARRY
+ Request date . . . :   10/12/15 Order no. :   CO   74421 Sold to :   JETRO CASH & CARRY                  PO: 882-19780
+ Manufacturing date :   10/12/15 Priority  :              Ship to :   RESTAURANT DEPOT #882
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/12/15 10/12/15 10/12/15 N           G24282 RD                         39.000   RL              230.10000000
+                                             18"W MG  BLKFT    78787900219
+ 10/12/15 10/12/15 10/12/15 N           G24281 RD                         78.000   RL              386.10000000
+                                             15" W MG BLKFT   78787900218
+ 10/12/15 10/12/15 10/12/15 N           G24285 RD                         10.000   RL              135.00000000
+                                             36" W TABLETOP   78787900222
+ 10/12/15 10/12/15 10/12/15 N           G24289 RD                         10.000   RL               97.50000000
+                                             30"NATKRAFT QUALITE
+ 10/12/15 10/12/15 10/12/15 N           G24291 RD                          5.000   CS              119.50000000
+                                             24X24"TABLE TOP 600SHTS
+ 10/12/15 10/12/15 10/12/15 N           G24299 RD                         10.000   CS              180.00000000
+                                             14X18"DW"QUALITE"
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74421 Order totals ***                                                    2,736.690               4,683.65
+       *** 10/12/15 Request date totals ***                                                   76,492.570             112,158.37
+ Customer number  . :   80320000  ATLAS PAPER COMPANY
+ Request date . . . :   10/15/15 Order no. :   CO   74349 Sold to :   ATLAS PAPER COMPANY                 PO: W033250
+ Manufacturing date :   10/15/15 Priority  :              Ship to :   ATLAS PAPER COMPANY
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/15/15 10/15/15 10/15/15 N           G10872 ATLAS                      71.000   CS            4,260.00000000
+                                             15X20"DW"MAMAGOOS 50 LB/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74349 Order totals ***                                                    4,260.000               4,881.25
+       *** 10/15/15 Request date totals ***                                                    4,260.000               4,881.25
+ Customer number  . :   82072200  LANCA SALES, INC.
+ Request date . . . :   10/19/15 Order no. :   CO   74396 Sold to :   LANCA SALES, INC.                   PO: 174474
+ Manufacturing date :   10/19/15 Priority  :              Ship to :   LANCA SALES, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/19/15 10/19/15 10/19/15 N           G20122 LANCA                     540.000   CS           14,245.20000000
+                                             18X26"QUILON 1000SHEETS/CS
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74396 Order totals ***                                                   14,245.200              16,875.00
+       *** 10/19/15 Request date totals ***                                                   14,245.200              16,875.00
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   41
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   81418000  GENERAL MILLS OPERATIONS, LLC
+ Request date . . . :   10/20/15 Order no. :   CO   74174 Sold to :   GENERAL MILLS OPERATIONS, LLC       PO: 45336247
+ Manufacturing date :   10/20/15 Priority  :              Ship to :   GENERAL MILLS PLANT #62
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/20/15 10/20/15 10/20/15 N           G23840PILLSBURY                5,000.000   M            37,200.00000000
+                                             7.25X7.25"#3042478000PILLSBURY
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74174 Order totals ***                                                   37,200.000              69,800.00
+ Customer number  . :   80610700  BUNZL NEW JERSEY, INC.
+ Request date . . . :   10/20/15 Order no. :   CO   74351 Sold to :   BUNZL NEW JERSEY, INC.              PO: 427864 NORMAL
+ Manufacturing date :   10/20/15 Priority  :              Ship to :   BUNZL NEW JERSEY, INC.
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/20/15 10/20/15 10/20/15 N           F1215DEL                          60.000   CS            1,851.00000000
+                                             12X15" DELWRAP
+ 10/20/15 10/20/15 10/20/15 N           G12070 BUNZL NY                  500.000   RL            8,500.00000000
+                                             15" MG "LENNYS"1MFT/RL
+ 10/20/15 10/20/15 10/20/15 N           G12074 BUNZL NJ                   64.000   RL           11,380.48000000
+                                             24-3/8"SILICONE 25# 6669FT/RL
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74351 Order totals ***                                                   21,731.480              26,307.68
+ Customer number  . :   81473800  STEPHEN GOULD CORPORATION
+ Request date . . . :   10/20/15 Order no. :   CO   74403 Sold to :   STEPHEN GOULD CORPORATION           PO: NE 30878
+ Manufacturing date :   10/20/15 Priority  :              Ship to :   JACQUELINE'S GOURMET COOKIES
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/20/15 10/20/15 10/20/15 N           G25926 SG                        150.000   RL              900.00000000
+                                             7" W 30/40#WW 1200'/RL
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74403 Order totals ***                                                      900.000               2,041.50
+       *** 10/20/15 Request date totals ***                                                   59,831.480              98,149.18
+ Customer number  . :   81780000  IMPERIAL BAG & PAPER CO
+ Request date . . . :   10/23/15 Order no. :   CO   74377 Sold to :   IMPERIAL BAG & PAPER CO             PO: 501974
+ Manufacturing date :   10/23/15 Priority  :              Ship to :   IMPERIAL BAG & PAPER CO
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/23/15 10/23/15 10/23/15 N           G19248IMPERIALB                   40.000   CS            3,600.00000000
+                                             14.5X14.5" "PANTANO'S" 5/1M
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74377 Order totals ***                                                    3,600.000               5,040.00
+       *** 10/23/15 Request date totals ***                                                    3,600.000               5,040.00
+ AMBD6PFR   QSECOFR                           Open Orders/Back Orders by Request Date                          9/30/15     Page   42
+                                                                                                              15:26:25  S109751F  MM
+ Company number . . . :    1  NORPAK CORP.
+ Customer number  . :   82867600  RP BAKING, LLC
+ Request date . . . :   10/25/15 Order no. :   CO   74388 Sold to :   RP BAKING, LLC                      PO:
+ Manufacturing date :   10/25/15 Priority  :              Ship to :   PECHTER'S BAKING GROUP LLC
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 10/25/15 10/25/15 10/25/15 N           G17909 HARRISON                6,000.000   LB            5,820.00000000
+                                             22-1/2" #3 RYE 45OZ RED & BLUE
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74388 Order totals ***                                                    5,820.000              10,380.00
+       *** 10/25/15 Request date totals ***                                                    5,820.000              10,380.00
+ Customer number  . :   81418000  GENERAL MILLS OPERATIONS, LLC
+ Request date . . . :   11/06/15 Order no. :   CO   74317 Sold to :   GENERAL MILLS OPERATIONS, LLC       PO: 45347320
+ Manufacturing date :   11/06/15 Priority  :              Ship to :   GENERAL MILLS PLANT #62
+ Request  Mfg due  Promise  WH  WH      Item number/      Mfg           Open       UM       Value at cost           CB  RC
+ date     date     date     no  loc          Description  order         quantity
+ 11/06/15 11/06/15 11/06/15 N           G23840PILLSBURY                5,000.000   M            37,200.00000000
+                                             7.25X7.25"#3042478000PILLSBURY
+                                                                                           Value at cost         Value at sales
+       ***  1 - CO   74317 Order totals ***                                                   37,200.000              69,800.00
+       *** 11/06/15 Request date totals ***                                                   37,200.000              69,800.00
+       ***             1 Company totals ***                                                  500,821.870             798,209.39
+       ***                 Final totals ***                                                  500,821.870             798,209.39
+                                                        ** END OF REPORT **

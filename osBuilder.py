@@ -21,7 +21,7 @@ class OSCreator(csv.CSVCreator):
 	Class that manages the creation of the Open Sales Orders
 	csv translated from the AS400 text report.
 	"""
-	def __init__(self):
+	def __init__(self,newFormat=False):
 		"""
 	Initializes OSCreator class
 		"""
@@ -29,10 +29,15 @@ class OSCreator(csv.CSVCreator):
 		self.account = None
 		self.header = ['Customer','Order No.','Date','PO No.','Item',\
 		'Quantity','Cost Rate','Price Rate','Total Sales','Posted Sales',\
-		'Diff. From Actual']
-		self.indices = {'Customer':[26,34],'Order No.':[26,36],'Date':[55,66],\
-		'PO No.':[107,150],'Item':[40,70],'Quantity':[70,83],'Cost':[85,111],\
-		'Sales Total': [105,-2]}
+		'Diff. From Actual','Ship To']
+		if newFormat:
+			self.indices = {'Customer':[26,34],'Order No.':[44,57],'Date':[21,\
+			32],'PO No.':[109,-1],'Ship To':[67,-1],'Item':[40,70],'Quantity':\
+			[70,83],'Cost':[85,111],'Sales Total':[105,-1]}
+		else:
+			self.indices = {'Customer':[26,34],'Order No.':[26,36],'Date':[55,66],\
+			'PO No.':[107,150],'Item':[40,70],'Quantity':[70,83],'Cost':[85,111],\
+			'Sales Total': [105,-1]}
 		self.event = 0
 		self._createCSV()
 		self._createHeader()
@@ -46,7 +51,7 @@ class OSCreator(csv.CSVCreator):
 		if self.fid is not None:
 			self.fid.close()
 
-	def writeToCSV(self,textIn,eventIn):
+	def writeToCSV(self,eventIn,textIn,extraText=None):
 		"""
 	Inputs the text from the OSReader and the event where it pulled that text.
 		"""
@@ -56,16 +61,16 @@ class OSCreator(csv.CSVCreator):
 			if eventIn == -1 and not self.account.reported:
 				print("Print Entry")
 				self.account.reported = True
-				self._buildAccount(eventIn)
+				self._buildAccount(eventIn,extraText)
 				self._setEntry()
 			else:
 				print("Create New Account")
-				self._buildAccount(eventIn)
+				self._buildAccount(eventIn,extraText)
 		else:
 			print("Pass Everything Else")
-			self._buildAccount(eventIn)
+			self._buildAccount(eventIn,extraText)
 
-	def _buildAccount(self,eventIn):
+	def _buildAccount(self,eventIn,extraText=None):
 		"""
 	Method manages the account building process.
 		"""
@@ -89,7 +94,12 @@ class OSCreator(csv.CSVCreator):
 				dte = self.iterText('Date')
 				print(dte)
 				PO = self.iterText('PO No.')
-				self.account._addOrder(order,dte,PO)
+				if extraText is not None:
+					self._setText(extraText)
+					shipTo = self.iterText('Ship To')
+					self.account._addOrder(order,dte,PO,shipTo)
+				else:
+					self.account._addOrder(order,dte,PO)
 
 			elif eventIn >= 3:
 				print("Add Item")

@@ -17,6 +17,9 @@ csv = B.OSCreator()
 while openFile.reading:
 	newLine,event = openFile.getNextLine()
 	if newLine is not None:
-		csv.writeToCSV(newLine.getText(),event)
+		if event == 2:
+			nl = openFile.getShipToLine()
+			csv.writeToCSV(event,newLine.getText(),nl)
+		csv.writeToCSV(event,newLine.getText())
 x = csv
 del csv

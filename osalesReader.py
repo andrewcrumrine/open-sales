@@ -84,6 +84,12 @@ class OSReader(f.TxtFileReader):
 			out = None
 		return out,self.eventState
 
+	def getShipToLine(self):
+		"""
+	Outputs the next line without any event changes ONLY used with the ship to address
+		"""
+		return self.fid.readline()
+
 	def _getKeyDict(self):
 		"""
 	Checks the event state and passes a key to the buffer

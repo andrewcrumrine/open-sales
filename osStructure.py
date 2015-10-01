@@ -13,8 +13,10 @@
 import stringMan as s 
 import fileReader as f 
 
-PRICE_FILE = 'priceMap.txt'
-PRICE_MAP = f.SuperMapReader(PRICE_FILE).getMap()
+PRICE_FILE 		= 'priceMap.txt'
+SHIP_TO_FILE 	= 'shipMap.txt'
+PRICE_MAP 		= f.SuperMapReader(PRICE_FILE).getMap()
+SHIP_MAP		= f.SuperMapReader(SHIP_TO_FILE).getMap()
 
 class OpenAccount(object):
 	"""
@@ -32,11 +34,11 @@ class OpenAccount(object):
 		self.building = True
 		self.reported = False
 
-	def _addOrder(self,order,date,PO):
+	def _addOrder(self,order,date,PO,shipTo=None):
 		"""
 	Add order to account
 		"""
-		self.orders.append(Order(order,date,PO))
+		self.orders.append(Order(order,date,PO,shipTo))
 		
 	def _addItemToOrder(self,item,quantity,cost):
 		"""
@@ -79,7 +81,7 @@ class Order(object):
 	"""
 	This class organizes all the items associated with a particular order.
 	"""
-	def __init__(self,orderNo,date,PO):
+	def __init__(self,orderNo,date,PO,shipTo=None):
 		"""
 	Initializes the Order class.  Requires the order number, the date of the
 	order, and the PO number to be inputted.
@@ -87,6 +89,8 @@ class Order(object):
 		self.order = s.removeSpaces(orderNo)
 		self.date = s.removeSpaces(date)
 		self.PO = s.removeReturns(s.removeSpaces(PO))
+		if shipTo is not None:
+			self.shipTo = self.setShipTo(shipTo)
 		self.items = []
 		self.totalSales = 0
 		self.building = True
@@ -121,3 +125,13 @@ class Item(object):
 			self.salesRate = float(PRICE_MAP[customer][self.item])
 		except KeyError:
 			self.salesRate = 0
+
+	def _setShipTo(self,shipTo):
+		"""
+	Set the ship to address of sales order
+		"""
+		shipTo = s.removeSpaces(shipTo)
+		try:
+			self.shipTo = int(SHIP_MAP[customer][shipTo])
+		except KeyError:
+			self.shipTo = 1
